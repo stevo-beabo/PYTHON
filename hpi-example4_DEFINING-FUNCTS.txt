@@ -1,0 +1,12 @@
+# "def" allows for repeatable operations to be written and called to a name
+"""def tree():
+        settop(90)
+        forward(30)
+        left(90)
+        forward(30)
+        right(120)
+        forward(30)
+        left(90)
+        forward(30)
+        right(120)"""
+        

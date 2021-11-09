@@ -30,3 +30,19 @@ print (count_string1)
 pro = True
 anti = False
 
+# Variables can be imported into a python script
+"""from <date-location> import <variable-name>"""
+
+# Listening variables
+"""<variable-name> = ["string0", "string1", "string2"]
+print(varible-name[#]"""
+# Appending to string
+"""<variable-name>.append(<string>)
+# Popping into a string
+"""<variable-name>.pop(#)"""
+# Slicing a listening variable
+"""<variable-name> = ["var0", "var1", "var2"]
+print(<variable-name>[0:1] outputs the 'a' character from first string"""
+# Splitting and Joining strings
+"""<new-variable-name> = <variable-name>.split()"""
+""<new-variable-name> = "<symbol-to-separate-with>" = <variable-name>.join()"""

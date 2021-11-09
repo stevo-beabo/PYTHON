@@ -1,0 +1,6 @@
+# "try" will run the code but won't stop the program on an error
+# "except" will delivery 
+"""try:
+	<code-to-attempt>
+except <ErrorType>:
+	<Wanted output to assist the user in providing the correct input>"""
