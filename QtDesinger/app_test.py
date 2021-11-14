@@ -30,10 +30,10 @@ class MainWindow(QMainWindow):
         am_label.setAlignment(Qt.AlignCenter)
         am_label.show()
 
-  #      layout.addWidget(Color('red'))
- #       layout.addWidget(Color('green'))
- #       layout.addWidget(Color('blue'))
- #       layout.addWidget(Color('yellow'))
+#       layout.addWidget(Color('red'))
+#       layout.addWidget(Color('green'))
+#       layout.addWidget(Color('blue'))
+#       layout.addWidget(Color('yellow'))
 
         widget = QWidget()
         widget.setLayout(layout)
