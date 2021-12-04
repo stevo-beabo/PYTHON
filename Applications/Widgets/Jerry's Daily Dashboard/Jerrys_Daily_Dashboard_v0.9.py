@@ -191,7 +191,7 @@ class Ui_MainWindow(object):
 
     ## Day of the Week Label  
         self.dotw_label = QtWidgets.QLabel(self.dateTime_Widget)
-        self.dotw_label.setGeometry(QtCore.QRect(23, 17, 321, 101))
+        self.dotw_label.setGeometry(QtCore.QRect(23, 17, 450, 101))
         font = QtGui.QFont()
         font.setFamily("DejaVu Serif")
         font.setPointSize(62)
