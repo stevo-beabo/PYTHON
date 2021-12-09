@@ -1,0 +1,228 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,ELf,2003,Fantasy,Touch of Magic,
+0,Life of Pi,2012,Fantasy,Touch of Magic,
+0,Three Colours: Red,1994,Fantasy,Touch of Magic,
+0,Matilda,1996,Fantasy,Touch of Magic,
+0,L.A. Story,1991,Fantasy,Touch of Magic,
+0,The Lobster,2015,Fantasy,Touch of Magic,
+0,Ordet,1955,Fantasy,Touch of Magic,
+0,Mary Poppins,1964,Fantasy,Touch of Magic,
+0,The Green Mile,1999,Fantasy,Touch of Magic,
+0,Field of Dreams,1989,Fantasy,Touch of Magic,
+0,Enchanted,2007,Fantasy,Touch of Magic,
+0,Midnight in Paris,2011,Fantasy,Touch of Magic,
+0,The Double Life of Veronique,1991,Fantasy,Touch of Magic,
+0,Willy Wonka and the Chocolate Factory,1971,Fantasy,Touch of Magic,
+0,Stranger than Fiction,2006,Fantasy,Touch of Magic,
+0,Who Framed Roger Rabbit,1988,Fantasy,Touch of Magic,
+0,Toy Story,1995,Fantasy,Touch of Magic,Hidden Worlds
+0,Toy Story 2,1999,Fantasy,Touch of Magic,Hidden Worlds
+0,Toy Story 3,2010,Fantasy,Touch of Magic,Hidden Worlds
+0,"Monsters, Inc.",2001,Fantasy,Touch of Magic,Hidden Worlds
+0,The Lego Movie,2014,Fantasy,Touch of Magic,Hidden Worlds
+0,Wreck-It Ralph,2012,Fantasy,Touch of Magic,Hidden Worlds
+0,Ralph Breaks the Internet,2018,Fantasy,Touch of Magic,Hidden Worlds
+0,All That Jazz,1979,Fantasy,Touch of Magic,Reveries
+0,Birdman,2014,Fantasy,Touch of Magic,Reveries
+0,Big Fish,2003,Fantasy,Touch of Magic,Reveries
+0,Sherlock Jr.,1924,Fantasy,Touch of Magic,Reveries
+0,Groundhog Day,1993,Fantasy,Touch of Magic,Do-Overs
+0,It's a Wonderful Life,1946,Fantasy,Touch of Magic,Do-Overs
+0,Peggy Sue Got Married,1986,Fantasy,Touch of Magic,Do-Overs
+0,Your Name,2016,Fantasy,Touch of Magic,Body Change
+0,Freaky Friday,1976,Fantasy,Touch of Magic,Body Change
+0,Dream a Little Dream,1989,Fantasy,Touch of Magic,Body Change
+0,Big,1988,Fantasy,Touch of Magic,Body Change
+0,13 Going on 30,2004,Fantasy,Touch of Magic,Body Change
+0,Being John Malkovich,1999,Fantasy,Touch of Magic,Body Change
+0,My Neighbor Totoro,1988,Fantasy,Touch of Magic,Friendly Creatures
+0,The Iron Giant,1999,Fantasy,Touch of Magic,Friendly Creatures
+0,Pinocchio,1940,Fantasy,Touch of Magic,Friendly Creatures
+0,Pete's Dragon,2016,Fantasy,Touch of Magic,Friendly Creatures
+0,Colossal,2017,Fantasy,Touch of Magic,Friendly Creatures
+0,Paddington,2014,Fantasy,Touch of Magic,Friendly Creatures
+0,Paddington 2,2017,Fantasy,Touch of Magic,Friendly Creatures
+0,Splash,1984,Fantasy,Touch of Magic,Friendly Creatures
+0,A Letter to Momo,2011,Fantasy,Touch of Magic,Friendly Creatures
+0,Christopher Robin,2018,Fantasy,Touch of Magic,Friendly Creatures
+0,The Secret of Roan Inish,1994,Fantasy,Touch of Magic,Friendly Creatures
+0,Where the Wild Things Are,2009,Fantasy,Touch of Magic,Friendly Creatures
+0,Beetlejuice,1988,Fantasy,Touch of Magic,Afterlife
+0,After Life,1998,Fantasy,Touch of Magic,Afterlife
+0,A Ghost Story,2017,Fantasy,Touch of Magic,Afterlife
+0,Heaven Can Wait,1978,Fantasy,Touch of Magic,Afterlife
+0,Coco,2017,Fantasy,Touch of Magic,Afterlife
+0,A Matter of Life and Death,1946,Fantasy,Touch of Magic,Afterlife
+0,Adaptation,2002,Fantasy,Postmodern,
+0,Zelig,1983,Fantasy,Postmodern,
+0,Sweet and Lowdown,1999,Fantasy,Postmodern,
+0,Taste of Cherry,1997,Fantasy,Postmodern,
+0,Hellzapoppin',1941,Fantasy,Postmodern,
+0,The Witches,1990,Fantasy,Dark Fantasy,
+0,Pan's Labyrinth,2006,Fantasy,Dark Fantasy,
+0,Coraline,2009,Fantasy,Dark Fantasy,
+0,Corpse Bride,2005,Fantasy,Dark Fantasy,
+0,A Monster Calls,2016,Fantasy,Dark Fantasy,
+0,Legend,1985,Fantasy,Dark Fantasy,
+0,Army of Darkness,1993,Fantasy,Dark Fantasy,
+0,The Shape of Water,2017,Fantasy,Dark Fantasy,
+0,Paperhouse,1988,Fantasy,Dark Fantasy,
+0,Phantasm,1979,Fantasy,Dark Fantasy,
+0,Edward Scissorhands,1990,Fantasy,Dark Fantasy,
+0,The City of Lost Children,1995,Fantasy,Dark Fantasy,
+0,The Nightmare Before Christmas,1993,Fantasy,Dark Fantasy,
+0,Something Wicked This Way Comes,1983,Fantasy,Dark Fantasy,
+0,Black Orpheus,1959,Fantasy,Modern Myth,
+0,Teorema,1968,Fantasy,Modern Myth,
+0,Orpheus,1950,Fantasy,Modern Myth,
+0,A Serious Man,2009,Fantasy,Modern Myth,
+0,Mother!,2017,Fantasy,Modern Myth,
+0,The Killing of a Sacred Deer,2017,Fantasy,Modern Myth,
+0,West Side Story,1961,Fantasy,Realistic Musicals,
+0,Cabaret,1972,Fantasy,Realistic Musicals,
+0,Singin' in the Rain,1952,Fantasy,Realistic Musicals,
+0,My Fair Lady,1964,Fantasy,Realistic Musicals,
+0,The Sound of Music,1965,Fantasy,Realistic Musicals,
+0,Moulin Rouge!,2001,Fantasy,Realistic Musicals,
+0,The King and I,1956,Fantasy,Realistic Musicals,
+0,Top Hat,1935,Fantasy,Realistic Musicals,
+0,42nd Street,1933,Fantasy,Realistic Musicals,
+0,La La Land,2016,Fantasy,Realistic Musicals,
+0,Chicago,2002,Fantasy,Realistic Musicals,
+0,Funny Face,1957,Fantasy,Realistic Musicals,
+0,The Band Wagon,1953,Fantasy,Realistic Musicals,
+0,An American in Paris,1951,Fantasy,Realistic Musicals,
+0,The Umbrellas of Cherbourg,1964,Fantasy,Realistic Musicals,
+0,Grease,1978,Fantasy,Realistic Musicals,Rock Musicals
+0,Purple Rain,1984,Fantasy,Realistic Musicals,Rock Musicals
+0,Tommy,1975,Fantasy,Realistic Musicals,Rock Musicals
+0,The Rocky Horror Picture Show,1975,Fantasy,Realistic Musicals,Rock Musicals
+0,Hedwig and the Angry Inch,2001,Fantasy,Realistic Musicals,Rock Musicals
+0,Superman,1978,Fantasy,Superhero,
+0,Batman,1989,Fantasy,Superhero,
+0,The Dark Knight,2008,Fantasy,Superhero,
+0,The Incredibles,2004,Fantasy,Superhero,
+0,The Incredibles 2,2018,Fantasy,Superhero,
+0,Iron Man,2008,Fantasy,Superhero,
+0,The Avengers,2012,Fantasy,Superhero,
+0,Avengers: Infinity War,2018,Fantasy,Superhero,
+0,Avengers: Endgame,2019,Fantasy,Superhero,
+0,Thor: Ragnarok,2017,Fantasy,Superhero,
+0,Spider-Man,2002,Fantasy,Superhero,
+0,Spider-Man: Homecoming,2017,Fantasy,Superhero,
+0,Black Panther,2018,Fantasy,Superhero,
+0,Wonder Woman,2017,Fantasy,Superhero,
+0,X-Men,2000,Fantasy,Superhero,
+0,Captain Marvel,2019,Fantasy,Superhero,
+0,X-Men: First Class,2011,Fantasy,Superhero,
+0,Hellboy,2004,Fantasy,Superhero,
+0,Logan,2017,Fantasy,Superhero,
+0,SHAZAM!,2019,Fantasy,Superhero,
+0,Captain America: The Winter Soldier,2014,Fantasy,Superhero,
+0,Captain America: Civil War,2016,Fantasy,Superhero,
+0,Spider-Man: Into the Spider-Verse,2018,Fantasy,Superhero,
+0,Darkman,1990,Fantasy,Superhero,Non-Traditional
+0,The Toxic Avenger,1984,Fantasy,Superhero,Non-Traditional
+0,Deadpool,2016,Fantasy,Superhero,Non-Traditional
+0,Kick-Ass,2010,Fantasy,Superhero,Non-Traditional
+0,Unbreakable,2000,Fantasy,Superhero,Non-Traditional
+0,Big Hero 6,2014,Fantasy,Superhero,Non-Traditional
+0,The Crow,1994,Fantasy,Superhero,Non-Traditional
+0,The Lego Batman Movie,2017,Fantasy,Superhero,Non-Traditional
+0,Babe,1995,Fantasy,Talking Animals,
+0,Ratatouille,2007,Fantasy,Talking Animals,
+0,Chicken Run,2000,Fantasy,Talking Animals,
+0,Finding Nemo,2003,Fantasy,Talking Animals,
+0,The Lion King,1994,Fantasy,Talking Animals,
+0,The Jungle Book,1967,Fantasy,Talking Animals,
+0,The Jungle Book,2016,Fantasy,Talking Animals,
+0,Fantastic Mr. Fox,2009,Fantasy,Talking Animals,
+0,101 Dalmatians,1961,Fantasy,Talking Animals,
+0,Inside Out,2015,Fantasy,Talking Animals,
+0,Happy Feet,2006,Fantasy,Talking Animals,
+0,Isle of Dogs,2018,Fantasy,Talking Animals,
+0,A Bug's Life,1998,Fantasy,Talking Animals,
+0,Wallace and Gromit: The Curse of the Were-Rabbit,2005,Fantasy,Talking Animals,
+0,The Beastmaster,1982,Fantasy,Sword and Sorcery,
+0,The Thief of Bagdad,1940,Fantasy,Sword and Sorcery,
+0,300,2006,Fantasy,Sword and Sorcery,
+0,Conan the Barbarian,1982,Fantasy,Sword and Sorcery,
+0,Krull,1983,Fantasy,Sword and Sorcery,
+0,Clash of the Titans,1981,Fantasy,Sword and Sorcery,
+0,Red Sonja,1985,Fantasy,Sword and Sorcery,
+0,Jason and the Argonauts,1963,Fantasy,Sword and Sorcery,
+0,The 7th Voyage of Sinbad,1958,Fantasy,Sword and Sorcery,
+0,Pirates of the Caribbean: The Curse of the Black Pearl,2003,Fantasy,Sword and Sorcery,
+0,The Holy Mountain,1973,Fantasy,Surrealist/Dreamscapes,
+0,Eraserhead,1977,Fantasy,Surrealist/Dreamscapes,
+0,Lost Highway,1997,Fantasy,Surrealist/Dreamscapes,
+0,Mulholland Drive,2001,Fantasy,Surrealist/Dreamscapes,
+0,Walker,1987,Fantasy,Surrealist/Dreamscapes,
+0,"Synecdoche, New York",2008,Fantasy,Surrealist/Dreamscapes,
+0,The Tree of Life,2011,Fantasy,Surrealist/Dreamscapes,
+0,The Waking Life,2001,Fantasy,Surrealist/Dreamscapes,
+0,Tropical Malady,2004,Fantasy,Surrealist/Dreamscapes,
+0,Inland Empire,2006,Fantasy,Surrealist/Dreamscapes,
+0,Funeral Parade of Roses,1969,Fantasy,Surrealist/Dreamscapes,
+0,Last Year at Marienbad,1961,Fantasy,Surrealist/Dreamscapes,
+0,"The Cook, the Thief, His Wife and Her Lover",1989,Fantasy,Surrealist/Dreamscapes,
+0,The Discreet Charm of the Bourgeoisie,1972,Fantasy,Surrealist/Dreamscapes,
+0,The Princess Bride,1987,Fantasy,High Fantasy,
+0,Stardust,2007,Fantasy,High Fantasy,
+0,The Neverending Story,1984,Fantasy,High Fantasy,
+0,Cinderella,1950,Fantasy,High Fantasy,
+0,The Highlander,1986,Fantasy,High Fantasy,
+0,Labyrinth,1986,Fantasy,High Fantasy,
+0,Willow,1988,Fantasy,High Fantasy,
+0,The Last Unicorn,1982,Fantasy,High Fantasy,
+0,Mulan,1998,Fantasy,High Fantasy,
+0,The Dark Crystal,1982,Fantasy,High Fantasy,
+0,Frozen,2013,Fantasy,High Fantasy,
+0,Howl's Moving Castle,2004,Fantasy,High Fantasy,
+0,Shrek,2001,Fantasy,High Fantasy,
+0,The Little Mermaid,1989,Fantasy,High Fantasy,
+0,Ladyhawke,1985,Fantasy,High Fantasy,
+0,Aladdin,1992,Fantasy,High Fantasy,
+0,The Seventh Seal,1957,Fantasy,High Fantasy,
+0,Spirited Away,2001,Fantasy,High Fantasy,
+0,Yellow Submarine,1968,Fantasy,High Fantasy,
+0,Moana,2016,Fantasy,High Fantasy,
+0,The Wizard of Oz,1939,Fantasy,High Fantasy,
+0,Beauty and the Beast,1946,Fantasy,High Fantasy,
+0,Beauty and the Beast,1991,Fantasy,High Fantasy,
+0,Fantasia,1940,Fantasy,High Fantasy,
+0,Mind Game,2004,Fantasy,High Fantasy,
+0,Alice in Wonderland,1951,Fantasy,High Fantasy,
+0,Sleeping Beauty,1959,Fantasy,High Fantasy,
+0,Snow White and the Seven Dwarves,1937,Fantasy,High Fantasy,
+0,How to Train Your Dragon,2010,Fantasy,High Fantasy,
+0,The Princess and the Frog,2009,Fantasy,High Fantasy,
+0,The Tale of the Princess Kaguya,2013,Fantasy,High Fantasy,
+0,James and the Giant Peach,1996,Fantasy,High Fantasy,
+0,Princess Mononoke,1997,Fantasy,High Fantasy,Epic
+0,Time Bandits,1981,Fantasy,High Fantasy,Epic
+0,Excalibur,1981,Fantasy,High Fantasy,Epic
+0,Harry Potter and the Soceror's Stone,2001,Fantasy,High Fantasy,Epic
+0,Harry Potter and the Prisoner of Azkaban,2004,Fantasy,High Fantasy,Epic
+0,Harry Potter and the Deathly Hallows,2010,Fantasy,High Fantasy,Epic
+0,The Lord of the Rings: The Fellowship of the Ring,2001,Fantasy,High Fantasy,Epic
+0,The Lord of the Rings: The Two Towers,2002,Fantasy,High Fantasy,Epic
+0,The Lord of the Rings: The Return of the King,2003,Fantasy,High Fantasy,Epic
+0,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Fantasy,High Fantasy,Epic
+0,Hero,2004,Fantasy,High Fantasy,Wuxia
+0,A Touch of Zen,1971,Fantasy,High Fantasy,Wuxia
+0,Ashes of Time,1994,Fantasy,High Fantasy,Wuxia
+0,House of Flying Daggers,2004,Fantasy,High Fantasy,Wuxia
+0,"Crouching Tiger, Hidden Dragon",2000,Fantasy,High Fantasy,Wuxia
+0,Up,2008,Fantasy,Fantasy Adventure,
+0,The BFG,2016,Fantasy,Fantasy Adventure,
+0,Hook,1991,Fantasy,Fantasy Adventure,
+0,Mirai,2018,Fantasy,Fantasy Adventure,
+0,One Million Years B.C.,1966,Fantasy,Fantasy Adventure,
+0,Raiders of the Lost Arc,1981,Fantasy,Fantasy Adventure,
+0,Big Trouble in Little China,1986,Fantasy,Fantasy Adventure,
+0,Journey to the Center of the Earth,1959,Fantasy,Fantasy Adventure,
+0,Indiana Jones and the Last Crusade,1989,Fantasy,Fantasy Adventure,
+0,The Adventures of Baron Munchausen,1988,Fantasy,Fantasy Adventure,
+0,Pee-Wee Big Adventure,1985,Fantasy,Fantasy Adventure,
+0,Kubo and the Two Strings,2016,Fantasy,Fantasy Adventure,

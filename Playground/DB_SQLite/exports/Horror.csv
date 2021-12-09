@@ -1,0 +1,172 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,Frankenstein,1931,Horror,Creature,
+0,Bride of Frankenstein,1935,Horror,Creature,
+0,Curse of Frankenstein,1957,Horror,Creature,
+0,The Birds,1963,Horror,Creature,
+0,The Descent,2005,Horror,Creature,
+0,Pumpkinhead,1988,Horror,Creature,
+0,The Monster Squad,1987,Horror,Creature,
+0,The Mummy,1959,Horror,Creature,
+0,The Monster,2016,Horror,Creature,
+0,Society,1989,Horror,Creature,
+0,Us,2019,Horror,Creature,
+0,The Gate,1987,Horror,Creature,Small Creatures
+0,Ghoulies,1985,Horror,Creature,Small Creatures
+0,Critters,1986,Horror,Creature,Small Creatures
+0,Gremlins,1984,Horror,Creature,Small Creatures
+0,The Wolf man,1941,Horror,Creature,Werewolf
+0,The Howling,1981,Horror,Creature,Werewolf
+0,Silver Bullet,1985,Horror,Creature,Werewolf
+0,Wolf Cop,2014,Horror,Creature,Werewolf
+0,Teem Wolf,1985,Horror,Creature,Werewolf
+0,Dog Soldiers,2002,Horror,Creature,Werewolf
+0,Late Phases,2014,Horror,Creature,Werewolf
+0,Wolfen,1981,Horror,Creature,Werewolf
+0,Wolf,1994,Horror,Creature,Werewolf
+0,Ginger Snaps,2000,Horror,Creature,Werewolf
+0,I Was a Teenaged Werewolf,1957,Horror,Creature,Werewolf
+0,An American Werewolf in London,1981,Horror,Creature,Werewolf
+0,When Animals Dream,2014,Horror,Creature,Werewolf
+0,Re-Animator,1985,Horror,Creature,Zombie
+0,Night of the Comet,1984,Horror,Creature,Zombie
+0,Night of the Creeps,1986,Horror,Creature,Zombie
+0,Zombi 2,1979,Horror,Creature,Zombie
+0,Dawn of the Dead,1978,Horror,Creature,Zombie
+0,Day of the Dead,1985,Horror,Creature,Zombie
+0,Dead and Buried,1981,Horror,Creature,Zombie
+0,I Walk with a Zombie,1943,Horror,Creature,Zombie
+0,Night of the Living Dead,1968,Horror,Creature,Zombie
+0,Return of the Living Dead,1985,Horror,Creature,Zombie
+0,The Plague of the Zombies,1966,Horror,Creature,Zombie
+0,Wyrmwood: Road of the Dead,2015,Horror,Creature,Zombie
+0,28 Days Later,2002,Horror,Creature,Zombie
+0,28 Weeks Later,2007,Horror,Creature,Zombie
+0,Dawn of the Dead,2004,Horror,Creature,Zombie
+0,Rec,2007,Horror,Creature,Zombie
+0,Train to Busan,2016,Horror,Creature,Zombie
+0,World War Z,2013,Horror,Creature,Zombie
+0,Planet Terror,2007,Horror,Creature,Zombie
+0,I am Legend,2007,Horror,Creature,Zombie
+0,Overlord,2018,Horror,Creature,Zombie
+0,The Last Man on Earth,1964,Horror,Creature,Zombie
+0,The Girl with All the Gifts,2016,Horror,Creature,Zombie
+0,Shawn of the Dead,2004,Horror,Creature,Zombie
+0,Dead Snow,2009,Horror,Creature,Zombie
+0,Zombieland,2009,Horror,Creature,Zombie
+0,Cemetary Man,1994,Horror,Creature,Zombie
+0,Braindead,1992,Horror,Creature,Zombie
+0,Dead Heat,1988,Horror,Creature,Zombie
+0,One Cut of the Dead,2017,Horror,Creature,Zombie
+0,Pontypool,2008,Horror,Creature,Zombie
+0,Ravenous,2017,Horror,Creature,Zombie
+0,The Battery,2012,Horror,Creature,Zombie
+0,The Night Eats the World,2018,Horror,Creature,Zombie
+0,Rubber,2010,Horror,Meta Horror,
+0,Resolution,2012,Horror,Meta Horror,
+0,The Cabin in the Woods,2012,Horror,Meta Horror,
+0,Wes Craven's New Nightmare,1994,Horror,Meta Horror,
+0,Behind the Mask: The Rise of Leslie Vernon,2006,Horror,Meta Horror,
+0,Creepshow,1982,Horror,Anthology,
+0,Trick 'R Treat,2007,Horror,Anthology,
+0,V/H/S,2012,Horror,Anthology,
+0,Black Sabbath,1963,Horror,Anthology,
+0,Kwaidan,1964,Horror,Anthology,
+0,Southbound,2015,Horror,Anthology,
+0,Ghost Stories,2017,Horror,Anthology,
+0,Tales from the Crypt,1972,Horror,Anthology,
+0,Dracula,1931,Horror,Vampire,
+0,Nosferatu,1922,Horror,Vampire,
+0,Horror of Dracula,1958,Horror,Vampire,
+0,Vampyros Lesbos,1971,Horror,Vampire,
+0,Shadow of the Vampire,2000,Horror,Vampire,
+0,Fright Night,1985,Horror,Vampire,Modern
+0,Blade,1998,Horror,Vampire,Modern
+0,The Addiction,1995,Horror,Vampire,Modern
+0,Let the Right One In,2008,Horror,Vampire,Modern
+0,From Dusk Til Dawn,1996,Horror,Vampire,Modern
+0,Martin,1978,Horror,Vampire,Modern
+0,Near Dark,1987,Horror,Vampire,Modern
+0,Buffy the Vampire Slayer,1992,Horror,Vampire,Modern
+0,A Girl Walks Home Alone at Night,2014,Horror,Vampire,Modern
+0,Signs,2002,Horror,Paranormal,Entities
+0,Hellraiser,1987,Horror,Paranormal,Entities
+0,It,2017,Horror,Paranormal,Entities
+0,The Babadook,2014,Horror,Paranormal,Entities
+0,Ghostbusters,1984,Horror,Paranormal,Entities
+0,Absentia,2011,Horror,Paranormal,Entities
+0,Tetsuo: The Iron Man,1989,Horror,Paranormal,Entities
+0,Children of the Corn,1984,Horror,Paranormal,Entities
+0,Ju-On,2002,Horror,Paranormal,Curses
+0,It Follows,2014,Horror,Paranormal,Curses
+0,Drag Me to Hell,2009,Horror,Paranormal,Curses
+0,The Fog,1980,Horror,Paranormal,Curses
+0,The Autopsy of Jane Doe,2016,Horror,Paranormal,Curses
+0,Candyman,1992,Horror,Paranormal,Supernatural Slasher
+0,Final Destination,2000,Horror,Paranormal,Supernatural Slasher
+0,Tourist Trap,1979,Horror,Paranormal,Supernatural Slasher
+0,Happy Death Day,2017,Horror,Paranormal,Supernatural Slasher
+0,A Nightmare on Elm Street,1984,Horror,Paranormal,Supernatural Slasher
+0,Friday the 13th: The Final Chapter,1984,Horror,Paranormal,Supernatural Slasher
+0,Carnival of Souls,1962,Horror,Paranormal,Big Twist
+0,The Sixth Sense,1999,Horror,Paranormal,Big Twist
+0,The Others,2001,Horror,Paranormal,Big Twist
+0,Goodnight Mommy,2014,Horror,Paranormal,Big Twist
+0,Don't Look Now,1973,Horror,Paranormal,Big Twist
+0,The Cabinet of Dr. Caligari,1920,Horror,Paranormal,Big Twist
+0,Suspiria,1977,Horror,Paranormal,Witches
+0,Suspiria,2018,Horror,Paranormal,Witches
+0,Black Sunday,1960,Horror,Paranormal,Witches
+0,The Witch,2015,Horror,Paranormal,Witches
+0,The Blair Witch Project,1999,Horror,Paranormal,Witches
+0,Rosemary's Baby,1968,Horror,Paranormal,Demonic
+0,The Oman,1976,Horror,Paranormal,Demonic
+0,Paranormal Activity,2007,Horror,Paranormal,Demonic
+0,Frailty,2001,Horror,Paranormal,Demonic
+0,The House of the Devil,2009,Horror,Paranormal,Demonic
+0,At the Devil's Door,2014,Horror,Paranormal,Demonic
+0,The Sentinel,1977,Horror,Paranormal,Demonic
+0,Insidious,2010,Horror,Paranormal,Demonic
+0,Event Horizon,1997,Horror,Paranormal,Demonic
+0,The Devil's Advocate,1997,Horror,Paranormal,Demonic
+0,Starry Eyes,2014,Horror,Paranormal,Demonic
+0,The Blood on Satan's Claw,1971,Horror,Paranormal,Demonic
+0,The Blackcoat's Daughter,2015,Horror,Paranormal,Demonic
+0,The Exorcist,1973,Horror,Paranormal,Demonic
+0,The Wailing,2016,Horror,Paranormal,Demonic
+0,Evil Dead,1981,Horror,Paranormal,Demonic
+0,Evil Dead II,1987,Horror,Paranormal,Demonic
+0,Demons,1985,Horror,Paranormal,Demonic
+0,The Taking of Debrah Logan,2014,Horror,Paranormal,Demonic
+0,The Ring,2002,Horror,Paranormal,Haunted Things
+0,Christine,1983,Horror,Paranormal,Haunted Things
+0,Oculus,2013,Horror,Paranormal,Haunted Things
+0,Maximum Overdrive,1986,Horror,Paranormal,Haunted Things
+0,Child's Play,1988,Horror,Paranormal,Haunted Things
+0,Puppet Master,1989,Horror,Paranormal,Haunted Things
+0,Dead Silence,2007,Horror,Paranormal,Haunted Things
+0,Annabelle,2014,Horror,Paranormal,Haunted Things
+0,The Shining,1980,Horror,Paranormal,Haunted Houses
+0,Poltergeist,1982,Horror,Paranormal,Haunted Houses
+0,The Conjouring,2013,Horror,Paranormal,Haunted Houses
+0,Crimson Peak,2017,Horror,Paranormal,Haunted Houses
+0,We Are Still Here,2015,Horror,Paranormal,Haunted Houses
+0,House,1986,Horror,Paranormal,Haunted Houses
+0,The Haunting,1963,Horror,Paranormal,Haunted Houses
+0,The Innkeepers,2011,Horror,Paranormal,Haunted Houses
+0,The Awakening,2011,Horror,Paranormal,Haunted Houses
+0,The Beyond,1981,Horror,Paranormal,Haunted Houses
+0,The Orphanage,2007,Horror,Paranormal,Haunted Houses
+0,The Changeling,1980,Horror,Paranormal,Haunted Houses
+0,The Devil's Backbone,2001,Horror,Paranormal,Haunted Houses
+0,The Amityville Horror,1979,Horror,Paranormal,Haunted Houses
+0,Carrie,1976,Horror,Paranormal,Horrifying Powers
+0,The Dead Zone,1983,Horror,Paranormal,Horrifying Powers
+0,Ravenous,1999,Horror,Paranormal,Horrifying Powers
+0,Pet Sematary,1989,Horror,Paranormal,Horrifying Powers
+0,Firestarter,1984,Horror,Paranormal,Horrifying Powers
+0,Scanners,1981,Horror,Paranormal,Horrifying Powers
+0,Beyond the Black Rainbow,2010,Horror,Paranormal,Horrifying Powers
+0,Get Out,2017,Horror,Paranormal,Cult
+0,Heriditary,2018,Horror,Paranormal,Cult
+0,The Black Cat,1934,Horror,Paranormal,Cult
+0,Apostle,2018,Horror,Paranormal,Cult

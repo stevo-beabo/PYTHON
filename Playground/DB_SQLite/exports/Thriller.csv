@@ -1,0 +1,230 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,Seven,1995,Thriller,Crime,Investigation
+0,Fargo,1996,Thriller,Crime,Investigation
+0,Dirty Hairy,1971,Thriller,Crime,Investigation
+0,Point Break,1991,Thriller,Crime,Investigation
+0,M,1931,Thriller,Crime,Investigation
+0,One False Move,1992,Thriller,Crime,Investigation
+0,Lone Star,1996,Thriller,Crime,Investigation
+0,High and Low,1963,Thriller,Crime,Investigation
+0,Elite Squad,2007,Thriller,Crime,Investigation
+0,Training Day,2001,Thriller,Crime,Investigation
+0,Sicario,2015,Thriller,Crime,Investigation
+0,The Silence of the Lambs,1991,Thriller,Crime,Investigation
+0,Strangers on a Train,1951,Thriller,Crime,Amateur Plots
+0,Dial M for Murder,1954,Thriller,Crime,Amateur Plots
+0,Blue Ruin,2013,Thriller,Crime,Amateur Plots
+0,Double Indemnity,1944,Thriller,Crime,Amateur Plots
+0,A Place in the Sun,1951,Thriller,Crime,Amateur Plots
+0,Match Point,2005,Thriller,Crime,Amateur Plots
+0,A Simple Plan,1998,Thriller,Crime,Amateur Plots
+0,Elevator to the Gallows,1958,Thriller,Crime,Amateur Plots
+0,The Departed,2006,Thriller,Crime,Gangster
+0,The Wild One,1953,Thriller,Crime,Gangster
+0,Scarface,1932,Thriller,Crime,Gangster
+0,Carlito's Way,1993,Thriller,Crime,Gangster
+0,Eastern Promises,2007,Thriller,Crime,Gangster
+0,On the Waterfront,1954,Thriller,Crime,Gangster
+0,Miller's Crossing,1990,Thriller,Crime,Gangster
+0,Brighton Rock,1948,Thriller,Crime,Gangster
+0,American Gangster,2007,Thriller,Crime,Gangster
+0,The Public Enemy,1931,Thriller,Crime,Gangster
+0,Performance,1970,Thriller,Crime,Gangster
+0,Snatch,2000,Thriller,Crime,Gangster
+0,Pulp Fiction,1994,Thriller,Crime,Gangster
+0,Breathless,1960,Thriller,Crime,Gangster
+0,Once Upon a Time in America,1984,Thriller,Crime,Gangster
+0,Get Carter,1971,Thriller,Crime,Gangster
+0,The Limey,1999,Thriller,Crime,Gangster
+0,Goodfellas,1990,Thriller,Crime,Mafia
+0,The Godfather,1972,Thriller,Crime,Mafia
+0,Casino,1995,Thriller,Crime,Mafia
+0,A Bronx Tale,1993,Thriller,Crime,Mafia
+0,Mafioso,1962,Thriller,Crime,Mafia
+0,Mean Streets,1973,Thriller,Crime,Mafia
+0,The Godfather Part II,1974,Thriller,Crime,Mafia
+0,Ocean's Eleven,2001,Thriller,Crime,Heist
+0,Jackie Brown,1997,Thriller,Crime,Heist
+0,Reservoir Dogs,1992,Thriller,Crime,Heist
+0,Dog Day Afternoon,1975,Thriller,Crime,Heist
+0,The Sting,1973,Thriller,Crime,Heist
+0,Rififi,1955,Thriller,Crime,Heist
+0,Bande A Part,1964,Thriller,Crime,Heist
+0,Le Cercle Rouge,1970,Thriller,Crime,Heist
+0,The Asphalt Jungle,1950,Thriller,Crime,Heist
+0,Ronin,1998,Thriller,Crime,Heist
+0,Bottle Rocket,1996,Thriller,Crime,Heist
+0,Out of Sight,1998,Thriller,Crime,Heist
+0,Drive,2011,Thriller,Crime,Heist
+0,Layer Cake,2004,Thriller,Crime,Heist
+0,Windows,2018,Thriller,Crime,Heist
+0,Hell or High Water,2016,Thriller,Crime,Heist
+0,Baby Driver,2017,Thriller,Crime,Heist
+0,Logan Lucky,2017,Thriller,Crime,Heist
+0,Sexy Beast,2000,Thriller,Crime,Heist
+0,Quick Change,1990,Thriller,Crime,Heist
+0,"Lock, Stock and Two Smoking Barrels",1999,Thriller,Crime,Heist
+0,The Gold Man and the Gun,2018,Thriller,Crime,Heist
+0,Bring Me the Head of Alfredo Garcia,1974,Thriller,Crime,Heist
+0,Heat,1995,Thriller,Crime,Heist
+0,The Killing,1956,Thriller,Crime,Heist
+0,Dragged Across Concrete,2018,Thriller,Crime,Heist
+0,Prisoners,2013,Thriller,Crime,Kidnapping
+0,The Vanishing,1988,Thriller,Crime,Kidnapping
+0,Ransom,1996,Thriller,Crime,Kidnapping
+0,The Big Lebowski,1998,Thriller,Crime,Kidnapping
+0,Misery,1990,Thriller,Crime,Kidnapping
+0,The Man Who Knew Too Much,1956,Thriller,Crime,Kidnapping
+0,Le Samourai,1967,Thriller,Crime,Hitmen
+0,Le Femme Nikita,1990,Thriller,Crime,Hitmen
+0,The Killer,1989,Thriller,Crime,Hitmen
+0,In Bruges,2008,Thriller,Crime,Hitmen
+0,Leon: The Professional,1994,Thriller,Crime,Hitmen
+0,You Were Never Really Here,2018,Thriller,Crime,Hitmen
+0,When a Stranger Calls,1979,Thriller,Slasher,
+0,Peeping Tom,1960,Thriller,Slasher,
+0,The Hills Have Eyes,1977,Thriller,Slasher,
+0,Maniac,1980,Thriller,Slasher,
+0,Opera,1987,Thriller,Slasher,
+0,Deep Red,1975,Thriller,Slasher,
+0,The Burning,1981,Thriller,Slasher,
+0,The Funhouse,1981,Thriller,Slasher,
+0,I Know What You Did Last Summer,1997,Thriller,Slasher,
+0,The Texas Chainsaw Massacre,1974,Thriller,Slasher,
+0,Friday the 13th,1980,Thriller,Slasher,Day-Specific
+0,Halloween,1978,Thriller,Slasher,Day-Specific
+0,Prom Night,1980,Thriller,Slasher,Day-Specific
+0,My Bloody Valentine,1981,Thriller,Slasher,Day-Specific
+0,Black Christmas,1974,Thriller,Slasher,Day-Specific
+0,"Silent Night, Deadly Night",1984,Thriller,Slasher,Day-Specific
+0,Jaws,1975,Thriller,Slasher,Non-Human Threat
+0,Cujo,1983,Thriller,Slasher,Non-Human Threat
+0,Orca,1977,Thriller,Slasher,Non-Human Threat
+0,Grizzly,1976,Thriller,Slasher,Non-Human Threat
+0,The Shallows,2016,Thriller,Slasher,Non-Human Threat
+0,Cannibal Holocaust,1980,Thriller,Slasher,Splatter/Torture
+0,Blood Feast,1963,Thriller,Slasher,Splatter/Torture
+0,Hostel,2005,Thriller,Slasher,Splatter/Torture
+0,Saw,2004,Thriller,Slasher,Splatter/Torture
+0,Martyrs,2008,Thriller,Slasher,Splatter/Torture
+0,Pieces,1983,Thriller,Slasher,Splatter/Torture
+0,The Human Centipede (First Sequence),2009,Thriller,Slasher,Splatter/Torture
+0,Henry: Portrait of a Serial Killer,1986,Thriller,Slasher,Splatter/Torture
+0,9 1/2 Weeks,1998,Thriller,Erotic,
+0,Fatal Attraction,1987,Thriller,Erotic,
+0,Body Heat,1981,Thriller,Erotic,
+0,Eyes Wide Shut,1999,Thriller,Erotic,
+0,Bound,1996,Thriller,Erotic,
+0,American Gigolo,1980,Thriller,Erotic,
+0,Last Tango in Paris,1972,Thriller,Erotic,
+0,Basic Instinct,1992,Thriller,Erotic,
+0,Exotica,1994,Thriller,Erotic,
+0,The Last Seduction,1994,Thriller,Erotic,
+0,Funny Games,2007,Thriller,Meta-Thriller,
+0,Scream,1996,Thriller,Meta-Thriller,
+0,Z,1969,Thriller,Conspiracy,
+0,In the Line of Fire,1993,Thriller,Conspiracy,
+0,The Parallax View,1974,Thriller,Conspiracy,
+0,Enemy of the State,1998,Thriller,Conspiracy,
+0,Three Days of the Condor,1975,Thriller,Conspiracy,
+0,The Wicker Man,1973,Thriller,Cults,
+0,The Invitaion,2015,Thriller,Cults,
+0,Mandy,2018,Thriller,Cults,
+0,We Are What We Are,2013,Thriller,Cults,
+0,Midsommar,2019,Thriller,Cults,
+0,Freaks,1932,Thriller,Cults,
+0,Martha Marcy May Marlene,2011,Thriller,Cults,
+0,Notorious,1946,Thriller,Spy,
+0,No Way Out,1987,Thriller,Spy,
+0,The Third Man,1949,Thriller,Spy,
+0,The 39 Steps,1935,Thriller,Spy,
+0,Dr. No,1962,Thriller,Spy,
+0,Goldfinger,1964,Thriller,Spy,
+0,Casino Royale,2006,Thriller,Spy,
+0,Mission: Impossible,1996,Thriller,Spy,
+0,Ministry of Fear,1944,Thriller,Spy,
+0,"Tinker, Tailor, Soldier, Spy",2011,Thriller,Spy,
+0,Kingsmen: The Secret Service,2015,Thriller,Spy,
+0,From Russia with Love,1963,Thriller,Spy,
+0,Vertigo,1958,Thriller,Psychological,
+0,The Innocents,1961,Thriller,Psychological,
+0,Les Diaboliques,1955,Thriller,Psychological,
+0,Cat People,1942,Thriller,Psychological,
+0,The Crying Game,1992,Thriller,Psychological,
+0,Repulsion,1965,Thriller,Psychological,
+0,Sisters,1973,Thriller,Psychological,
+0,Raw,2017,Thriller,Psychological,
+0,Pi,1998,Thriller,Psychological,
+0,Eyes Without a Face,1960,Thriller,Psychological,
+0,The Game,1997,Thriller,Psychological,
+0,Rebecca,1940,Thriller,Psychological,
+0,Cache,2005,Thriller,Psychological,
+0,Straw Dogs,1971,Thriller,Psychological,
+0,They Look Like People,2015,Thriller,Psychological,
+0,The Night of the Hunter,1955,Thriller,Psychological,
+0,The Bird With the Crystal Plumage,1970,Thriller,Psychological,
+0,The Bad Seed,1976,Thriller,Psychological,Sociopaths
+0,Psycho,1960,Thriller,Psychological,Sociopaths
+0,Taxi Driver,1976,Thriller,Psychological,Sociopaths
+0,Creep,2014,Thriller,Psychological,Sociopaths
+0,American Psycho,2000,Thriller,Psychological,Sociopaths
+0,Gone Girl,2014,Thriller,Psychological,Sociopaths
+0,The Talented Mr. Ripley,1999,Thriller,Psychological,Sociopaths
+0,What Ever Happened to Baby Jane?,1962,Thriller,Psychological,Sociopaths
+0,Touch of Evil,1958,Thriller,Film Noir,
+0,The Maltese Falcon,1941,Thriller,Film Noir,
+0,Kiss Me Deadly,1955,Thriller,Film Noir,
+0,Sunset Boulevard,1950,Thriller,Film Noir,
+0,The Reckless Moment,1949,Thriller,Film Noir,
+0,The Big Sleep,1946,Thriller,Film Noir,
+0,In a Lonely Place,1950,Thriller,Film Noir,
+0,Gilda,1946,Thriller,Film Noir,
+0,The Big Heat,1953,Thriller,Film Noir,
+0,Laura,1944,Thriller,Film Noir,
+0,Out of the Past,1947,Thriller,Film Noir,
+0,Pickup on South Street,1950,Thriller,Film Noir,
+0,Point Blank,1967,Thriller,Film Noir,Neo-Noir
+0,Sin City,2005,Thriller,Film Noir,Neo-Noir
+0,The Long Goodbye,1973,Thriller,Film Noir,Neo-Noir
+0,Blood Simple,1984,Thriller,Film Noir,Neo-Noir
+0,Barton Fink,1991,Thriller,Film Noir,Neo-Noir
+0,Chinatown,1974,Thriller,Film Noir,Neo-Noir
+0,Blue Velvet,1986,Thriller,Film Noir,Neo-Noir
+0,Collateral,2004,Thriller,Film Noir,Neo-Noir
+0,L.A. Confidential,1997,Thriller,Film Noir,Neo-Noir
+0,Hard Eight,1996,Thriller,Film Noir,Neo-Noir
+0,The Thin Man,1934,Thriller,Mystery,Whodunnit
+0,Blowup,1966,Thriller,Mystery,Whodunnit
+0,The Conversation,1974,Thriller,Mystery,Whodunnit
+0,The Kennel Murder Case,1933,Thriller,Mystery,Whodunnit
+0,Dead Reckoning,1947,Thriller,Mystery,Provisional Detective
+0,Flightplan,2005,Thriller,Mystery,Provisional Detective
+0,To Catch a Thief,1955,Thriller,Mystery,Provisional Detective
+0,Rear Window,1954,Thriller,Mystery,Provisional Detective
+0,A Canterbury Tale,1944,Thriller,Mystery,Provisional Detective
+0,The Usual Suspects,1995,Thriller,Mystery,Procedural
+0,Bullitt,1968,Thriller,Mystery,Procedural
+0,Mystic River,2003,Thriller,Mystery,Procedural
+0,In the Heat of the Night,1967,Thriller,Mystery,Procedural
+0,Memento,2000,Thriller,Mystery,Unreliable Minds
+0,Mirage,2018,Thriller,Mystery,Unreliable Minds
+0,Oldboy,2003,Thriller,Mystery,Unreliable Minds
+0,The Manchurian Candidate,1962,Thriller,Mystery,Unreliable Minds
+0,Deliverance,1972,Thriller,Survival,
+0,Cast Away,2000,Thriller,Survival,
+0,The Revenant,2015,Thriller,Survival,
+0,The Wages of Fear,1953,Thriller,Survival,
+0,All is Lost,2013,Thriller,Survival,
+0,Walkabout,1971,Thriller,Survival,
+0,The Most Dangerous Game,1932,Thriller,Survival,
+0,The Strangers,2008,Thriller,Survival,Contained Survival
+0,Panic Room,2002,Thriller,Survival,Contained Survival
+0,You're Next,2011,Thriller,Survival,Contained Survival
+0,Hush,2016,Thriller,Survival,Contained Survival
+0,Green Room,2015,Thriller,Survival,Contained Survival
+0,Buried,2010,Thriller,Survival,Contained Survival
+0,Don't Breathe,2016,Thriller,Survival,Contained Survival
+0,The Fugitive,1993,Thriller,Chase,
+0,North by Northwest,1959,Thriller,Chase,
+0,Diva,1981,Thriller,Chase,
+0,No Country for Old Men,2007,Thriller,Chase,

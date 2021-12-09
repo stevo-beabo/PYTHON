@@ -1,0 +1,98 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,The Aviator,2004,Based on a True Story,Biopic,
+0,The Passion of Joan of Arc,1928,Based on a True Story,Biopic,
+0,Born of the Fourth of July,1989,Based on a True Story,Biopic,
+0,American Splendor,2003,Based on a True Story,Biopic,Meta-Biopic
+0,F for Fake,1973,Based on a True Story,Biopic,Meta-Biopic
+0,Experimenter,2015,Based on a True Story,Biopic,Meta-Biopic
+0,"I, Tonya",2017,Based on a True Story,Biopic,Meta-Biopic
+0,A Futile and Stupid Gesture,2018,Based on a True Story,Biopic,Meta-Biopic
+0,The Disaster Artist,2017,Based on a True Story,Biopic,Protrait of the Artist
+0,My Left Foot,1989,Based on a True Story,Biopic,Protrait of the Artist
+0,Frida,2002,Based on a True Story,Biopic,Protrait of the Artist
+0,Pollack,2000,Based on a True Story,Biopic,Protrait of the Artist
+0,Man on the Moon,1999,Based on a True Story,Biopic,Protrait of the Artist
+0,Before Night Falls,2000,Based on a True Story,Biopic,Protrait of the Artist
+0,Ed Wood,1994,Based on a True Story,Biopic,Protrait of the Artist
+0,Colette,2018,Based on a True Story,Biopic,Protrait of the Artist
+0,The Diving Bell and the Butterfly,2007,Based on a True Story,Biopic,Protrait of the Artist
+0,Walk the Line,2005,Based on a True Story,Biopic,Musician
+0,I'm Not There,2007,Based on a True Story,Biopic,Musician
+0,Shine,1996,Based on a True Story,Biopic,Musician
+0,Topsy-Turvy,1999,Based on a True Story,Biopic,Musician
+0,Sid and Nancy,1986,Based on a True Story,Biopic,Musician
+0,Ray,2004,Based on a True Story,Biopic,Musician
+0,Amadeus,1984,Based on a True Story,Biopic,Musician
+0,What's Love Got to Do With It?,1993,Based on a True Story,Biopic,Musician
+0,Gandhi,1982,Based on a True Story,Biopic,Politics
+0,Lincoln,2012,Based on a True Story,Biopic,Politics
+0,Elizabeth,1998,Based on a True Story,Biopic,Politics
+0,Malcolm X,1992,Based on a True Story,Biopic,Politics
+0,The Queen,2006,Based on a True Story,Biopic,Politics
+0,The King's Speech,2010,Based on a True Story,Biopic,Politics
+0,The Last King of Scotland,2006,Based on a True Story,Biopic,Politics
+0,A Man for All Seasons,1966,Based on a True Story,Biopic,Politics
+0,Schindler's List,1993,Based on a True Story,Wartime/Upheaval,
+0,Hacksaw Ridge,2016,Based on a True Story,Wartime/Upheaval,
+0,We Were Soldiers,2002,Based on a True Story,Wartime/Upheaval,
+0,Patton,1970,Based on a True Story,Wartime/Upheaval,
+0,The Pianist,2002,Based on a True Story,Wartime/Upheaval,
+0,Lawrence of Arabia,1962,Based on a True Story,Wartime/Upheaval,
+0,Hotel Rwanda,2004,Based on a True Story,Wartime/Upheaval,
+0,Persepolis,2007,Based on a True Story,Wartime/Upheaval,
+0,The Killing Fields,1984,Based on a True Story,Wartime/Upheaval,
+0,Downfall,2004,Based on a True Story,Wartime/Upheaval,
+0,Argo,2012,Based on a True Story,Wartime/Upheaval,
+0,Glory,1989,Based on a True Story,Wartime/Upheaval,
+0,In the Name of the Father,1993,Based on a True Story,Wartime/Upheaval,
+0,A Night to Remember,1958,Based on a True Story,Single Event,
+0,United 93,2006,Based on a True Story,Single Event,
+0,127 Hours,2010,Based on a True Story,Single Event,
+0,Apollo 13,1995,Based on a True Story,Single Event,
+0,Sully 2016,2016,Based on a True Story,Single Event,
+0,First Man,2018,Based on a True Story,Single Event,
+0,Monster,2003,Based on a True Story,True Crime,
+0,Foxcatcher,2014,Based on a True Story,True Crime,
+0,Zodiac,2007,Based on a True Story,True Crime,
+0,The Untouchables,1987,Based on a True Story,True Crime,
+0,Catch Me If You Can,2002,Based on a True Story,True Crime,
+0,I Shot Andy Warhol,1996,Based on a True Story,True Crime,
+0,Dead Man Walking,1995,Based on a True Story,True Crime,
+0,Serpico,1973,Based on a True Story,True Crime,
+0,Mississippi Burning,1988,Based on a True Story,True Crime,
+0,Bonnie and Clyde,1967,Based on a True Story,True Crime,
+0,Quiz Show,1994,Based on a True Story,True Crime,
+0,Midnight Express,1976,Based on a True Story,True Crime,
+0,The Insider,1999,Based on a True Story,True Crime,
+0,Boys Don't Cry,1999,Based on a True Story,True Crime,
+0,Capote,2005,Based on a True Story,True Crime,
+0,In Cold Blood,1967,Based on a True Story,True Crime,
+0,A Cry in the Dark,1988,Based on a True Story,True Crime,
+0,Blackkklansman,2018,Based on a True Story,True Crime,
+0,The Wolf of Wall Street,2013,Based on a True Story,True Crime,
+0,All the President's Men,1976,Based on a True Story,True Crime,
+0,Heavenly Creatures,1992,Based on a True Story,True Crime,
+0,Miracle,2004,Based on a True Story,Sports,
+0,The Blind Side,2009,Based on a True Story,Sports,
+0,42,2013,Based on a True Story,Sports,
+0,Rudy,1993,Based on a True Story,Sports,
+0,Eight Men Out,1988,Based on a True Story,Sports,
+0,Seabiscuit,2003,Based on a True Story,Sports,
+0,Chariots of Fire,1981,Based on a True Story,Sports,
+0,The Pride of the Yankees,1942,Based on a True Story,Sports,
+0,Remember the Titans,2000,Based on a True Story,Sports,
+0,Ali,2001,Based on a True Story,Sports,Boxing
+0,Bleed for This,2016,Based on a True Story,Sports,Boxing
+0,The Fighter,2010,Based on a True Story,Sports,Boxing
+0,Raging Bull,1980,Based on a True Story,Sports,Boxing
+0,Somebody Up There Likes Me,1956,Based on a True Story,Sports,Boxing
+0,12 Years a Slave,2013,Based on a True Story,Struggle,
+0,The Elephant Man,1980,Based on a True Story,Struggle,
+0,Erin Brockovich,2000,Based on a True Story,Struggle,
+0,Hidden Figures,2016,Based on a True Story,Struggle,
+0,The Straight Story,1999,Based on a True Story,Struggle,
+0,The Sea Inside,2004,Based on a True Story,Struggle,
+0,Stand and Deliver,1988,Based on a True Story,Struggle,
+0,Loving,2016,Based on a True Story,Struggle,
+0,Into the Wild,2007,Based on a True Story,Struggle,
+0,The People vs Larry Flint,1996,Based on a True Story,Struggle,

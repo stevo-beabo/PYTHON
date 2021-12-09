@@ -1,0 +1,114 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,Shane,1953,Action,Western,Traditional
+0,The Searchers,1956,Action,Western,Traditional
+0,The Naked Spur,1953,Action,Western,Traditional
+0,The Big Sky,1952,Action,Western,Traditional
+0,The Shootist,1976,Action,Western,Traditional
+0,Hannie Caulder,1971,Action,Western,Traditional
+0,Rancho Notorious,1952,Action,Western,Traditional
+0,Ulzana's Raid,1972,Action,Western,Traditional
+0,Forty Guns,1957,Action,Western,Traditional
+0,Stagecoach,1939,Action,Western,Traditional
+0,Red River,1948,Action,Western,Traditional
+0,The Big Country,1957,Action,Western,Traditional
+0,The Magnificent Seven,1960,Action,Western,Traditional
+0,High Noon,1952,Action,Western,Lawmen
+0,Rio Bravo,1959,Action,Western,Lawmen
+0,Tombstone,1993,Action,Western,Lawmen
+0,True Grit,1969,Action,Western,Lawmen
+0,The Man Who Shot Liberty Valance,1962,Action,Western,Lawmen
+0,The Wild Bunch,1969,Action,Western,Revisionist
+0,Little Big Man,1970,Action,Western,Revisionist
+0,Dances with Wolves,1990,Action,Western,Revisionist
+0,High Plains Drifter,1979,Action,Western,Revisionist
+0,Unforgiven,1992,Action,Western,Revisionist
+0,Hang 'Em High,1968,Action,Western,Revisionist
+0,Bone Tomahawk,2015,Action,Western,Revisionist
+0,Heaven's Gate,1980,Action,Western,Revisionist
+0,In a Valley of Violence,2016,Action,Western,Revisionist
+0,McCabe and Mrs. Miller,1971,Action,Western,Revisionist
+0,The Outlaw Josey Wales,1976,Action,Western,Revisionist
+0,Ride the High Country,1969,Action,Western,Revisionist
+0,Pat Garrett and Billy the Kid,1973,Action,Western,Revisionist
+0,The Assassination of Jesse James by the Coward Robert Ford,2007,Action,Western,Revisionist
+0,El Topo,1970,Action,Western,Acid Western
+0,The Shooting,1966,Action,Western,Acid Western
+0,Dead Man,1985,Action,Western,Acid Western
+0,Django,1966,Action,Western,Spaghetti
+0,The Great Silence,1968,Action,Western,Spaghetti
+0,Day of Anger,1967,Action,Western,Spaghetti
+0,A Pistol for Ringo,1965,Action,Western,Spaghetti
+0,The Big Gun Down,1966,Action,Western,Spaghetti
+0,Django Unchained,2012,Action,Western,Spaghetti
+0,A Bullet for the General,1966,Action,Western,Spaghetti
+0,For a Few Dollars More,1965,Action,Western,Spaghetti
+0,"The Good, the Bad and the Ugly",1966,Action,Western,Spaghetti
+0,Once Upon a Time in the West,1968,Action,Western,Spaghetti
+0,Captain Blood,1935,Action,Swashbuckler,
+0,The Mark of Zorro,1940,Action,Swashbuckler,
+0,The Adventures of Robin Hood,1938,Action,Swashbuckler,
+0,The Prisoner of Zenda,1937,Action,Swashbuckler,
+0,Twister,1996,Action,Disaster,
+0,Airport,1970,Action,Disaster,
+0,The Towering Inferno,1974,Action,Disaster,
+0,The Poseidon Adventure,1970,Action,Disaster,
+0,The Dirty Dozen,1967,Action,Team,
+0,The Seven Samurai,1954,Action,Team,
+0,The Guns of Navarone,1961,Action,Team,
+0,The Expendables,2010,Action,Team,
+0,The Warriors,1979,Action,Team,
+0,Fast Five,2011,Action,Team,
+0,Top Gun,1986,Action,Team,
+0,13 Assassins,2010,Action,Team,
+0,Furious 7,2015,Action,Team,
+0,Wanted,2008,Action,Team,
+0,The Treasure of the Sierra Madre,1948,Action,Team,
+0,48 Hrs.,1982,Action,Team,Buddy Action
+0,Rush Hour,1998,Action,Team,Buddy Action
+0,The Rock,1996,Action,Team,Buddy Action
+0,Leathal Weapon,1987,Action,Team,Buddy Action
+0,The African Queen,1951,Action,Team,Buddy Action
+0,Beverly Hills Cop,1984,Action,Team,Buddy Action
+0,Stakeout,1987,Action,Team,Buddy Action
+0,Bad Boys,1995,Action,Team,Buddy Action
+0,Midnight Run,1988,Action,Team,Buddy Action
+0,True Lies,1994,Action,Team,Buddy Action
+0,The Man Who Would be King,1975,Action,Team,Buddy Action
+0,Butch Cassidy and the Sundance Kid,1969,Action,Team,Buddy Action
+0,Fist of Fury,1972,Action,Martial Arts,
+0,Five Deadly Venoms,1978,Action,Martial Arts,
+0,Kill Bill: Vol. 1,2003,Action,Martial Arts,
+0,Iron Monkey,1993,Action,Martial Arts,
+0,The Raid: Redemption,2011,Action,Martial Arts,
+0,Ip Man,2008,Action,Martial Arts,
+0,King Boxer,1972,Action,Martial Arts,
+0,The 36th Chamber of Shaolin,1978,Action,Martial Arts,
+0,The Legend of Drunken Master,2000,Action,Martial Arts,
+0,Once Upon a Time in China,2011,Action,Martial Arts,
+0,Enter the Dragon,1973,Action,Martial Arts,Tournament
+0,Bloodsport,1988,Action,Martial Arts,Tournament
+0,Kickboxer,1989,Action,Martial Arts,Tournament
+0,Best of the Best,1989,Action,Martial Arts,Tournament
+0,First Blood,1982,Action,Person with a Particular Set of Skills,
+0,Taken,2008,Action,Person with a Particular Set of Skills,
+0,John Wick,2014,Action,Person with a Particular Set of Skills,
+0,The Bourne Identity,2002,Action,Person with a Particular Set of Skills,
+0,Super Cop,1992,Action,Person with a Particular Set of Skills,
+0,Road House,1989,Action,Person with a Particular Set of Skills,
+0,Lone Wolf McQuade,1983,Action,Person with a Particular Set of Skills,
+0,The Equalizer,2014,Action,Person with a Particular Set of Skills,
+0,Rambo,2008,Action,Person with a Particular Set of Skills,
+0,Machete,2010,Action,Person with a Particular Set of Skills,
+0,Crank,2006,Action,Person with a Particular Set of Skills,
+0,Commando,1985,Action,Person with a Particular Set of Skills,
+0,Hard Boiled,1992,Action,Person with a Particular Set of Skills,
+0,Police Story,1985,Action,Person with a Particular Set of Skills,
+0,Atomic Blonde,2017,Action,Person with a Particular Set of Skills,
+0,A History of Violence,2005,Action,Person with a Particular Set of Skills,
+0,Die Hard with a Vengeance,1995,Action,Person with a Particular Set of Skills,
+0,Die Hard,1988,Action,Person with a Particular Set of Skills,One Man in One Place
+0,Speed,1994,Action,Person with a Particular Set of Skills,One Man in One Place
+0,Passenger 57,1992,Action,Person with a Particular Set of Skills,One Man in One Place
+0,Under Siege,1992,Action,Person with a Particular Set of Skills,One Man in One Place
+0,Assault on Precinct 13,1976,Action,Person with a Particular Set of Skills,One Man in One Place
+0,Brawl in Cell Block 99,2017,Action,Person with a Particular Set of Skills,One Man in One Place

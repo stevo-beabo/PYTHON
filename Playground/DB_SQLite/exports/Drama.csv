@@ -1,0 +1,340 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,City Lights,1931,Drama,Love Story,Rom-Com
+0,As Good As It Gets,1997,Drama,Love Story,Rom-Com
+0,Amelie,2001,Drama,Love Story,Rom-Com
+0,Pretty Woman,1990,Drama,Love Story,Rom-Com
+0,Manhattan,1979,Drama,Love Story,Rom-Com
+0,Tha Graduate,1967,Drama,Love Story,Rom-Com
+0,Knocked Up,2007,Drama,Love Story,Rom-Com
+0,Annie Hall,1977,Drama,Love Story,Rom-Com
+0,Funny Girl,1968,Drama,Love Story,Rom-Com
+0,The Apartment,1960,Drama,Love Story,Rom-Com
+0,The Quiet Man,1952,Drama,Love Story,Rom-Com
+0,Houseboat,1958,Drama,Love Story,Rom-Com
+0,Sabrina,1954,Drama,Love Story,Rom-Com
+0,Roman Holiday,1953,Drama,Love Story,Rom-Com
+0,Ninotchka,1939,Drama,Love Story,Rom-Com
+0,Cyrano De Bergerac,1990,Drama,Love Story,Rom-Com
+0,Harold and Maude,1971,Drama,Love Story,Rom-Com
+0,Sunrise,1927,Drama,Love Story,Rom-Com
+0,Punch-Drunk Love,2002,Drama,Love Story,Rom-Com
+0,Broadcast News,1987,Drama,Love Story,Rom-Com
+0,Pretty in Pink,1986,Drama,Love Story,Rom-Com
+0,Garden State,2004,Drama,Love Story,Rom-Com
+0,Safety Last!,1923,Drama,Love Story,Rom-Com
+0,Moonstruck,1987,Drama,Love Story,Rom-Com
+0,Say Anything...,1989,Drama,Love Story,Rom-Com
+0,About a Boy,2002,Drama,Love Story,Rom-Com
+0,The Big Sick,2017,Drama,Love Story,Rom-Com
+0,Crazy Rich Asians,2018,Drama,Love Story,Rom-Com
+0,Sleepless in Seattle,1993,Drama,Love Story,Rom-Com
+0,Forgetting Sarah Marshall,2008,Drama,Love Story,Rom-Com
+0,Four Weddings and a Funeral,1994,Drama,Love Story,Rom-Com
+0,The Philadelphia Story,1940,Drama,Love Story,Rom-Com
+0,When Harry Met Sally,1989,Drama,Love Story,Rom-Com
+0,There's Something About Mary,1998,Drama,Love Story,Rom-Com
+0,The 40-Year-Old Virgin,2005,Drama,Love Story,Rom-Com
+0,Silver Linings Playbook,2012,Drama,Love Story,Rom-Com
+0,The Lady Eve,1941,Drama,Love Story,Screwball
+0,His Girl Friday,1940,Drama,Love Story,Screwball
+0,Bringing Up Baby,1938,Drama,Love Story,Screwball
+0,The Seven Year Itch,1955,Drama,Love Story,Screwball
+0,Some Like It Hot,1959,Drama,Love Story,Screwball
+0,"What's Up, Doc?",1972,Drama,Love Story,Screwball
+0,Adam's Rib,1949,Drama,Love Story,Screwball
+0,The Palm Beach Story,1942,Drama,Love Story,Screwball
+0,It Happened One Night,1934,Drama,Love Story,Screwball
+0,Badlands,1973,Drama,Love Story,Life and Crime
+0,True Romance,1993,Drama,Love Story,Life and Crime
+0,Days of Heaven,1978,Drama,Love Story,Life and Crime
+0,Mad Dog and Glory,1993,Drama,Love Story,Life and Crime
+0,Picnic,1955,Drama,Love Story,One Day
+0,Before Sunrise,1995,Drama,Love Story,One Day
+0,Before Sunset,2004,Drama,Love Story,One Day
+0,Before Midnight,2013,Drama,Love Story,One Day
+0,A Day in the Country,1936,Drama,Love Story,One Day
+0,Short Cuts,1993,Drama,Multiple Stories,
+0,The Hours,2002,Drama,Multiple Stories,
+0,Magnolia,1999,Drama,Multiple Stories,
+0,I Am Cuba,1964,Drama,Multiple Stories,
+0,Au Hasard Balthazar,1966,Drama,Multiple Stories,
+0,Crimes and Misdemeanors,1989,Drama,Multiple Stories,
+0,Songs from the Second Floor,2000,Drama,Multiple Stories,
+0,Titanic,1997,Drama,Love Story,Ill-Starred
+0,A Star is Born,2018,Drama,Love Story,Ill-Starred
+0,The English Patient,1996,Drama,Love Story,Ill-Starred
+0,Once,2007,Drama,Love Story,Ill-Starred
+0,Stromboli,1950,Drama,Love Story,Ill-Starred
+0,Port of Shadows,1938,Drama,Love Story,Ill-Starred
+0,Brokeback Mountain,2005,Drama,Love Story,Ill-Starred
+0,The Year of Living Dangerously,1982,Drama,Love Story,Ill-Starred
+0,Hiroshima Mon Amour,1959,Drama,Love Story,Ill-Starred
+0,Call Me By Your Name,2017,Drama,Love Story,Ill-Starred
+0,Letter from an Unknown Woman,1948,Drama,Love Story,Ill-Starred
+0,Secretary,2002,Drama,Love Story,Erotica
+0,Wild Orchid,1989,Drama,Love Story,Erotica
+0,Betty Blue,1986,Drama,Love Story,Erotica
+0,Black Narcissus,1947,Drama,Love Story,Erotica
+0,Blue is the Warmest Color,2013,Drama,Love Story,Erotica
+0,Kama Sutra: A Tale of Love,1996,Drama,Love Story,Erotica
+0,Closer,2004,Drama,Love Story,Love Triangle
+0,Jules and Jim,1962,Drama,Love Story,Love Triangle
+0,Written on the Wind,1956,Drama,Love Story,Love Triangle
+0,Sunday Bloody Sunday,1971,Drama,Love Story,Love Triangle
+0,The Mother and the Whore,1973,Drama,Love Story,Love Triangle
+0,Vicky Christina Barcelona,2008,Drama,Love Story,Love Triangle
+0,Trainspotting,1996,Drama,Addiction,
+0,Requiem for a Dream,2000,Drama,Addiction,
+0,Traffic,2000,Drama,Addiction,
+0,Leaving Las Vegas,1995,Drama,Addiction,
+0,Bigger Than Life,1956,Drama,Addiction,
+0,Half Nelson,2006,Drama,Addiction,
+0,Love Liza,2002,Drama,Addiction,
+0,Mississippi Grind,2015,Drama,Addiction,
+0,Fear and Loathing in Las Vegas,1998,Drama,Addiction,
+0,Gertrud,1964,Drama,Love Story,Troubled Love
+0,Contempt,1963,Drama,Love Story,Troubled Love
+0,Turkish Delight,1973,Drama,Love Story,Troubled Love
+0,Darling,1965,Drama,Love Story,Troubled Love
+0,Belle De Jour,1967,Drama,Love Story,Troubled Love
+0,Journey to Italy,1954,Drama,Love Story,Troubled Love
+0,Giant,1956,Drama,Love Story,Troubled Love
+0,The Beguiled,2017,Drama,Love Story,Troubled Love
+0,Brief Enounter,1945,Drama,Love Story,Troubled Love
+0,The Misfits,1961,Drama,Love Story,Troubled Love
+0,Sawdust and Tinsel,1953,Drama,Love Story,Troubled Love
+0,Who's Afraid of Virginia Woolf,1966,Drama,Love Story,Troubled Love
+0,Cat on a Hot Tin Roof,1958,Drama,Love Story,Troubled Love
+0,From Here to Eternity,1953,Drama,Love Story,Troubled Love
+0,The Way We Were,1973,Drama,Love Story,Break-Ups
+0,The Story of Us,1999,Drama,Love Story,Break-Ups
+0,The Break-Up,2006,Drama,Love Story,Break-Ups
+0,(500) Days of Summer,2009,Drama,Love Story,Break-Ups
+0,Chungking Express,1994,Drama,Love Story,Break-Ups
+0,High Fidelity,2000,Drama,Love Story,Break-Ups
+0,Faces,1968,Drama,Love Story,Break-Ups
+0,Some Came Running,1956,Drama,Love Story,Men Behaving Badly
+0,Sideways,2004,Drama,Love Story,Men Behaving Badly
+0,Wonder Boys,2000,Drama,Love Story,Men Behaving Badly
+0,Broken Flowers,2005,Drama,Love Story,Men Behaving Badly
+0,About Schmidt,2002,Drama,Love Story,Men Behaving Badly
+0,"Sex, Lies, and Videotape",1989,Drama,Love Story,Men Behaving Badly
+0,You Can Count on Me,2000,Drama,Family,
+0,Little Miss Sunshine,2006,Drama,Family,
+0,East of Eden,1955,Drama,Family,
+0,Ordinary People,1980,Drama,Family,
+0,Monsoon Wedding,2001,Drama,Family,
+0,Yi Yi,2000,Drama,Family,
+0,Pather Panchali,1955,Drama,Family,
+0,Tokyo Story,1953,Drama,Family,
+0,Mother and Son,1997,Drama,Family,
+0,The Celebration,1998,Drama,Family,
+0,Secrets and Lies,1996,Drama,Family,
+0,The Return,2003,Drama,Family,
+0,The Jazz Singer,1927,Drama,Family,
+0,Roma,2018,Drama,Family,
+0,Rain Man,1988,Drama,Family,
+0,Slumdog Millionaire,2008,Drama,Family,
+0,The Grapes of Wrath,1940,Drama,Family,
+0,Imitation of Life,1959,Drama,Family,
+0,The Royal Tenenbaums,2001,Drama,Family,
+0,A Streetcar Named Desire,1951,Drama,Family,
+0,A Woman Under the Influence,1974,Drama,Family,
+0,"Distance Vocies, Still Lives",1988,Drama,Family,
+0,Rocco and His Brothers,1960,Drama,Family,
+0,The Squid and the Whale,2005,Drama,Family,
+0,I Vitelloni,1953,Drama,Coming of Age,
+0,Good Will Hunting,1997,Drama,Coming of Age,
+0,Y Tu Mama Tambien,2001,Drama,Coming of Age,
+0,Do the Right Thing,1989,Drama,Coming of Age,
+0,Moonlight,2016,Drama,Coming of Age,
+0,The 400 Blows,1959,Drama,Coming of Age,
+0,Stand By Me,1986,Drama,Coming of Age,
+0,The Class,2008,Drama,Coming of Age,
+0,The Last Picture Show,1971,Drama,Coming of Age,
+0,An Education,2009,Drama,Coming of Age,
+0,Billy Elliot,2000,Drama,Coming of Age,
+0,Precious,2009,Drama,Coming of Age,
+0,Only Yesterday,1991,Drama,Coming of Age,
+0,Osama,2003,Drama,Coming of Age,
+0,Raising Victor Vargas,2002,Drama,Coming of Age,
+0,Maria Full of Grace,2004,Drama,Coming of Age,
+0,Les Enfants Terribles,1950,Drama,Coming of Age,
+0,Metropolitan,1990,Drama,Coming of Age,
+0,Dead Poets Society,1989,Drama,Coming of Age,
+0,Eighth Grade,2018,Drama,Coming of Age,
+0,Boyhood,2014,Drama,Coming of Age,
+0,Kids,1995,Drama,Coming of Age,
+0,Lady Bird,2017,Drama,Coming of Age,
+0,The Spirit of the Beehive,1973,Drama,Coming of Age,
+0,My Life as a Zucchini,2016,Drama,Coming of Age,
+0,Cinema Paradiso,1988,Drama,Coming of Age,Apprenticeship
+0,Whiplash,2014,Drama,Coming of Age,Apprenticeship
+0,Karate Kid,1984,Drama,Coming of Age,Apprenticeship
+0,The Color of Money,1986,Drama,Coming of Age,Apprenticeship
+0,American History X,1998,Drama,Coming of Age,Criminal Elements
+0,City of God,2002,Drama,Coming of Age,Criminal Elements
+0,Boyz 'N the Hood,1991,Drama,Coming of Age,Criminal Elements
+0,La Haine,1995,Drama,Coming of Age,Criminal Elements
+0,Elephant,2003,Drama,Coming of Age,Criminal Elements
+0,Rebel Without a Cause,1955,Drama,Coming of Age,Criminal Elements
+0,The Young and The Damned,1950,Drama,Coming of Age,Criminal Elements
+0,Ace in the Hole,1951,Drama,Manipulators/Schemes,
+0,All About Eve,1950,Drama,Manipulators/Schemes,
+0,Waking Ned Devine,1998,Drama,Manipulators/Schemes,
+0,Morvern Callar,2002,Drama,Manipulators/Schemes,
+0,Glengarry Glen Ross,1992,Drama,Manipulators/Schemes,
+0,Born Yesterday,1950,Drama,Manipulators/Schemes,
+0,Sweet Smell of Success,1957,Drama,Manipulators/Schemes,
+0,Throne of Blood,1957,Drama,Period Piece,
+0,Lola Montes,1955,Drama,Period Piece,
+0,Children of Paradise,1945,Drama,Period Piece,
+0,Braveheart,1995,Drama,Period Piece,
+0,Forrest Gump,1994,Drama,Period Piece,
+0,Restoration,1995,Drama,Period Piece,
+0,The New World,2005,Drama,Period Piece,
+0,Barry Lyndon,1975,Drama,Period Piece,
+0,The Birth of a Nation,2016,Drama,Period Piece,
+0,The Leopard,1963,Drama,Period Piece,
+0,Andrei Rublev,1969,Drama,Period Piece,
+0,Day of Wrath,1943,Drama,Period Piece,
+0,Reds,1981,Drama,Period Piece,
+0,The Dead,1987,Drama,Period Piece,
+0,Shakespeare in Love,1998,Drama,Period Piece,
+0,Phantom Thread,2017,Drama,Period Piece,
+0,The Magnificent Ambersons,1942,Drama,Period Piece,
+0,The Last of the Mohicans,1992,Drama,Period Piece,
+0,The Tree of Wooden Clogs,1978,Drama,Period Piece,
+0,"Aguirre, The Wrath of God",1972,Drama,Period Piece,
+0,Sansho the Bailiff,1954,Drama,Period Piece,Feudal Japan
+0,Rashomon,1950,Drama,Period Piece,Feudal Japan
+0,Yojimbo,1961,Drama,Period Piece,Feudal Japan
+0,Ran,1985,Drama,Period Piece,Feudal Japan
+0,The Lives of Others,2006,Drama,Period Piece,Life in Wartime
+0,Burnt by the Sun,1994,Drama,Period Piece,Life in Wartime
+0,Kanal,1956,Drama,Period Piece,Life in Wartime
+0,Casablanca,1942,Drama,Period Piece,Life in Wartime
+0,Gone with the Wind,1939,Drama,Period Piece,Life in Wartime
+0,The Conformist,1970,Drama,Period Piece,Life in Wartime
+0,Life is Beautiful ,1997,Drama,Period Piece,Life in Wartime
+0,The Remains of the Day,1993,Drama,Period Piece,Life in Wartime
+0,Graves of the Fireflies,1988,Drama,Period Piece,Life in Wartime
+0,My Father and My Son,2005,Drama,Period Piece,Life in Wartime
+0,Battleship Potemkin,1925,Drama,Period Piece,War Movies
+0,Das Boot,1981,Drama,Period Piece,War Movies
+0,The Hurt Locker,2008,Drama,Period Piece,War Movies
+0,Full Metal Jacket,1987,Drama,Period Piece,War Movies
+0,Paths of Glory,1957,Drama,Period Piece,War Movies
+0,The Great Escape,1963,Drama,Period Piece,War Movies
+0,Army of Shadows,1969,Drama,Period Piece,War Movies
+0,Dunkirk,2017,Drama,Period Piece,War Movies
+0,Three Kings,1999,Drama,Period Piece,War Movies
+0,Stalag 17,1953,Drama,Period Piece,War Movies
+0,The Thin Red Line,1998,Drama,Period Piece,War Movies
+0,Cross of Iron,1977,Drama,Period Piece,War Movies
+0,Fires on the Plain,1959,Drama,Period Piece,War Movies
+0,Ivan's Childhood,1962,Drama,Period Piece,War Movies
+0,Platoon,1986,Drama,Period Piece,War Movies
+0,Come and See,1985,Drama,Period Piece,War Movies
+0,Saving Private Ryan,1998,Drama,Period Piece,War Movies
+0,A Man Escaped,1956,Drama,Period Piece,War Movies
+0,The Battle of Algiers,1966,Drama,Period Piece,War Movies
+0,The Red and the White,1967,Drama,Period Piece,War Movies
+0,All Quiet on the Western Front,1930,Drama,Period Piece,War Movies
+0,The Life and Death of Colonel Blimp,1943,Drama,Period Piece,War Movies
+0,The Bridge on the River Kwai,1957,Drama,Period Piece,War Movies
+0,The Red Badge of Courage,1951,Drama,Period Piece,War Movies
+0,Master and Commander: The Far Side of the World,2003,Drama,Period Piece,War Movies
+0,Ben-Hur,1959,Drama,Period Piece,Sword and Sandal
+0,Gladiator,2000,Drama,Period Piece,Sword and Sandal
+0,Spartacus,1960,Drama,Period Piece,Sword and Sandal
+0,Agora,2009,Drama,Period Piece,Sword and Sandal
+0,Viridiana,1961,Drama,Psychological Journey,
+0,Fight Club,1999,Drama,Psychological Journey,
+0,The Deer Hunter,1978,Drama,Psychological Journey,
+0,La Dolce Vita,1960,Drama,Psychological Journey,
+0,L'Avventura,1960,Drama,Psychological Journey,
+0,Wild Strawberries,1957,Drama,Psychological Journey,
+0,The Passenger,1975,Drama,Psychological Journey,
+0,Wanda,1970,Drama,Psychological Journey,
+0,Sophie's Choice,1982,Drama,Psychological Journey,
+0,The Best Years of Our Lives,1946,Drama,Psychological Journey,
+0,Apocalypse Now,1979,Drama,Psychological Journey,Literal Journey
+0,La Strada,1954,Drama,Psychological Journey,Literal Journey
+0,"Paris, Texas",1984,Drama,Psychological Journey,Literal Journey
+0,Easy Rider,1969,Drama,Psychological Journey,Literal Journey
+0,Two-Lane Blacktop,1971,Drama,Psychological Journey,Literal Journey
+0,The Virgin Suicides,1999,Drama,Psychological Journey,Suburban Sadness
+0,Little Children,2006,Drama,Psychological Journey,Suburban Sadness
+0,Happiness,1998,Drama,Psychological Journey,Suburban Sadness
+0,American Beauty,1999,Drama,Psychological Journey,Suburban Sadness
+0,Revolutionary Road,2008,Drama,Psychological Journey,Suburban Sadness
+0,In the Bedroom,2001,Drama,Psychological Journey,Suburban Sadness
+0,The Ice Storm,1997,Drama,Psychological Journey,Suburban Sadness
+0,Far From Heaven,2002,Drama,Psychological Journey,Suburban Sadness
+0,Safe,1995,Drama,Psychological Journey,Suburban Sadness
+0,Three Colours: Blue,1993,Drama,Psychological Journey,Perseverance
+0,Cool Hand Luke,1967,Drama,Psychological Journey,Perseverance
+0,Fitzcarraldo,1982,Drama,Psychological Journey,Perseverance
+0,Bicycle Thieves,1948,Drama,Psychological Journey,Perseverance
+0,Killer of Sheep,1978,Drama,Psychological Journey,Perseverance
+0,Down by Law,1986,Drama,Psychological Journey,Perseverance
+0,One Flew Over the Cuckoo's Nest,1975,Drama,Psychological Journey,Perseverance
+0,"Three Billboards Outside Ebbing, Missouri",2017,Drama,Psychological Journey,Perseverance
+0,The Shawshank Redemption,1994,Drama,Psychological Journey,Perseverance
+0,Manchester by the Sea,2016,Drama,Psychological Journey,Perseverance
+0,Midnight Cowboy,1969,Drama,Friendships,
+0,The Station Agent,2003,Drama,Friendships,
+0,Rushmore,1998,Drama,Friendships,
+0,The Intouchables,2011,Drama,Friendships,
+0,Gods and Monsters,1998,Drama,Friendships,
+0,Withnail and I,1987,Drama,Friendships,
+0,Talk to Her,2002,Drama,Friendships,
+0,Sling Blade,1996,Drama,Friendships,
+0,Thelma and Louise,1991,Drama,Friendships,
+0,Columbus,2017,Drama,Friendships,
+0,"4 Months, 3 Weeks and 2 Days",2007,Drama,Friendships,
+0,Lost in Translation,2003,Drama,Friendships,
+0,Citizen Kane,1941,Drama,Rise and Fall,
+0,Boogie Nights,1997,Drama,Rise and Fall,
+0,Scarface,1983,Drama,Rise and Fall,
+0,The Apostle,1997,Drama,Rise and Fall,
+0,The Red Shoes,1948,Drama,Rise and Fall,
+0,Hustle and Flow,2005,Drama,Rise and Fall,
+0,The Barefoot Contessa,1954,Drama,Rise and Fall,
+0,There Will Be Blood,2007,Drama,Rise and Fall,
+0,Jerry Maguire,1996,Drama,Workplace/Professional,
+0,The Magician,1958,Drama,Workplace/Professional,
+0,Bad Night,1996,Drama,Workplace/Professional,
+0,Local Hero,1983,Drama,Workplace/Professional,
+0,Day for Night,1973,Drama,Workplace/Professional,
+0,Chocolat,2000,Drama,Workplace/Professional,
+0,A Parairie Home Companion,2006,Drama,Workplace/Professional,
+0,Only Angels Have Wings,1939,Drama,Workplace/Professional,
+0,"Girl, Interrupted",1999,Drama,Workplace/Professional,Medical
+0,Lorenzo's Oil,1992,Drama,Workplace/Professional,Medical
+0,Awakenings,1990,Drama,Workplace/Professional,Medical
+0,All About My Mother,1999,Drama,Workplace/Professional,Medical
+0,Bringing Out the Dead,1999,Drama,Workplace/Professional,Medical
+0,The Hunt,2012,Drama,Workplace/Professional,Legal
+0,12 Angry Men,1957,Drama,Workplace/Professional,Legal
+0,A Few Good Men,1992,Drama,Workplace/Professional,Legal
+0,Philadelphia,1993,Drama,Workplace/Professional,Legal
+0,The Sweet Hereafter,1997,Drama,Workplace/Professional,Legal
+0,The Verdict,1982,Drama,Workplace/Professional,Legal
+0,Judgment at Nuremberg,1961,Drama,Workplace/Professional,Legal
+0,Witness for the Prosecution,1957,Drama,Workplace/Professional,Legal
+0,Anatomy of a Murder,1959,Drama,Workplace/Professional,Legal
+0,To Kill a Mockingbird,1962,Drama,Workplace/Professional,Legal
+0,The Wrestler,2008,Drama,Sports,
+0,Any Given Sunday,1999,Drama,Sports,
+0,Million Dollar Baby,2004,Drama,Sports,
+0,The Hustler,1961,Drama,Sports,
+0,Body and Soul,1947,Drama,Sports,
+0,Rounders,1998,Drama,Sports,
+0,Breaking Away,1979,Drama,Sports,
+0,Rocky,1976,Drama,Sports,
+0,Hoosiers,1986,Drama,Sports,
+0,The Natural,1984,Drama,Sports,
+0,Requiem for a Heavy Weight,1962,Drama,Sports,
+0,Friday Night Lights,2004,Drama,Sports,

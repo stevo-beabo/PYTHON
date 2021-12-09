@@ -1,0 +1,196 @@
+watched,name,year,genre_main,genre_sub1,genre_sub2
+0,King Kong,1933,Sci-Fi,Creature Feature,Giant Monster
+0,Godzilla,1954,Sci-Fi,Creature Feature,Giant Monster
+0,Them!,1954,Sci-Fi,Creature Feature,Giant Monster
+0,Pacific Rim,2013,Sci-Fi,Creature Feature,Giant Monster
+0,The Host,2006,Sci-Fi,Creature Feature,Giant Monster
+0,Cloverfield,2008,Sci-Fi,Creature Feature,Giant Monster
+0,Fantastic Planet,1973,Sci-Fi,Creature Feature,Giant Monster
+0,Rodan,1956,Sci-Fi,Creature Feature,Giant Monster
+0,"The Beast from 20,000 Fathoms",1953,Sci-Fi,Creature Feature,Giant Monster
+0,Attack of the 50ft Woman,1958,Sci-Fi,Creature Feature,Giant Monster
+0,Mimic,1997,Sci-Fi,Creature Feature,Mutations
+0,Deep Blue Sea,1999,Sci-Fi,Creature Feature,Mutations
+0,Jurassic Park,1993,Sci-Fi,Creature Feature,Mutations
+0,Piranha,1978,Sci-Fi,Creature Feature,Mutations
+0,Alligator,1980,Sci-Fi,Creature Feature,Mutations
+0,C.H.U.D.,1984,Sci-Fi,Creature Feature,Mutations
+0,Phase IV,1974,Sci-Fi,Creature Feature,Mutations
+0,The Thing,1982,Sci-Fi,Creature Feature,Extraterrestrial
+0,E.T.,1982,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Blob,1958,Sci-Fi,Creature Feature,Extraterrestrial
+0,Starship Troopers,1997,Sci-Fi,Creature Feature,Extraterrestrial
+0,Predator,1987,Sci-Fi,Creature Feature,Extraterrestrial
+0,Alien,1979,Sci-Fi,Creature Feature,Extraterrestrial
+0,Aliens,1986,Sci-Fi,Creature Feature,Extraterrestrial
+0,Under the Skin,2013,Sci-Fi,Creature Feature,Extraterrestrial
+0,Repo Man,1984,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Stuff,1985,Sci-Fi,Creature Feature,Extraterrestrial
+0,Bad Taste,1987,Sci-Fi,Creature Feature,Extraterrestrial
+0,This Island Earth,1955,Sci-Fi,Creature Feature,Extraterrestrial
+0,Enemy Mine,1985,Sci-Fi,Creature Feature,Extraterrestrial
+0,Life,2017,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Thing from Another World,1951,Sci-Fi,Creature Feature,Extraterrestrial
+0,Cocoon,1985,Sci-Fi,Creature Feature,Extraterrestrial
+0,District 9,2009,Sci-Fi,Creature Feature,Extraterrestrial
+0,Alien Nation,1988,Sci-Fi,Creature Feature,Extraterrestrial
+0,They Live,1988,Sci-Fi,Creature Feature,Extraterrestrial
+0,Men in Black,1997,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Brother from Another Planet,1984,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Man Who Fell to Earth,1971,Sci-Fi,Creature Feature,Extraterrestrial
+0,It Came from Outer Space,1953,Sci-Fi,Creature Feature,Extraterrestrial
+0,Close Encounters of the Third Kind,1977,Sci-Fi,Creature Feature,Extraterrestrial
+0,Independance Day,1996,Sci-Fi,Creature Feature,Extraterrestrial
+0,A Quiet Place,2018,Sci-Fi,Creature Feature,Extraterrestrial
+0,Attack the Block,2011,Sci-Fi,Creature Feature,Extraterrestrial
+0,Slither,2006,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Hidden,1987,Sci-Fi,Creature Feature,Extraterrestrial
+0,Monsters,2010,Sci-Fi,Creature Feature,Extraterrestrial
+0,Before We Vanish,2017,Sci-Fi,Creature Feature,Extraterrestrial
+0,10 Cloverfield Lane,2016,Sci-Fi,Creature Feature,Extraterrestrial
+0,Invasion of the Body Snatchers,1956,Sci-Fi,Creature Feature,Extraterrestrial
+0,Invasion of the Body Snatchers,1978,Sci-Fi,Creature Feature,Extraterrestrial
+0,The Day the Earth Stood Still,1951,Sci-Fi,Creature Feature,Extraterrestrial
+0,The War of the Worlds,1953,Sci-Fi,Creature Feature,Extraterrestrial
+0,Splice,2010,Sci-Fi,Creature Feature,Transhumanism
+0,Spring,2014,Sci-Fi,Creature Feature,Transhumanism
+0,The Brood,1979,Sci-Fi,Creature Feature,Transhumanism
+0,Altered States,1980,Sci-Fi,Creature Feature,Transhumanism
+0,The Fly,1958,Sci-Fi,Creature Feature,Transhumanism
+0,The Fly,1986,Sci-Fi,Creature Feature,Transhumanism
+0,Evolution,2015,Sci-Fi,Creature Feature,Transhumanism
+0,Frankenstein,2015,Sci-Fi,Creature Feature,Transhumanism
+0,Upgrade,2018,Sci-Fi,Creature Feature,Transhumanism
+0,The Village of the Damned,1960,Sci-Fi,Creature Feature,Transhumanism
+0,The Incredible Shrinking Man,1957,Sci-Fi,Creature Feature,Transhumanism
+0,The Lost World,1925,Sci-Fi,Creature Feature,Prehistoric Relic
+0,Tremors,1990,Sci-Fi,Creature Feature,Prehistoric Relic
+0,The Valley of Gwangi,1969,Sci-Fi,Creature Feature,Prehistoric Relic
+0,The Creature from the Black Lagoon,1954,Sci-Fi,Creature Feature,Prehistoric Relic
+0,Forbidden Planet,1956,Sci-Fi,Space,
+0,Dark Star,1974,Sci-Fi,Space,
+0,Contact,1997,Sci-Fi,Space,
+0,The Martian,2015,Sci-Fi,Space,
+0,Sunshine,2007,Sci-Fi,Space,
+0,Silent Running,1971,Sci-Fi,Space,
+0,Europa Report,2013,Sci-Fi,Space,
+0,Gravity,2013,Sci-Fi,Space,
+0,2010,1984,Sci-Fi,Space,
+0,Outland,1981,Sci-Fi,Space,
+0,Destination Moon,1950,Sci-Fi,Space,
+0,Moon,2009,Sci-Fi,Space,
+0,Oblivion,2013,Sci-Fi,Space,
+0,High Life,2018,Sci-Fi,Space,
+0,Aniara,2018,Sci-Fi,Space,
+0,Robinson Crusoe on Mars,1964,Sci-Fi,Space,
+0,2001,1968,Sci-Fi,Space,Cosmic Space Story
+0,Insterstellar,2014,Sci-Fi,Space,Cosmic Space Story
+0,Solaris,1972,Sci-Fi,Space,Cosmic Space Story
+0,Flash Gordon,1980,Sci-Fi,Space,Space Opera
+0,Dune,1984,Sci-Fi,Space,Space Opera
+0,Avatar,2009,Sci-Fi,Space,Space Opera
+0,The Fifth Element,1997,Sci-Fi,Space,Space Opera
+0,Stargate,1994,Sci-Fi,Space,Space Opera
+0,Star Trek,2009,Sci-Fi,Space,Space Opera
+0,Barbarella,1968,Sci-Fi,Space,Space Opera
+0,Galaxy Quest,1999,Sci-Fi,Space,Space Opera
+0,Serenity,2005,Sci-Fi,Space,Space Opera
+0,Guardians of the Galaxy,2014,Sci-Fi,Space,Space Opera
+0,Star Trek II: The Wrath of Khan,1982,Sci-Fi,Space,Space Opera
+0,Star Wars: A New Hope,1977,Sci-Fi,Space,Space Opera
+0,Star Wars: The Empire Strikes Back,1980,Sci-Fi,Space,Space Opera
+0,Star Wars: The Force Awakens,2015,Sci-Fi,Space,Space Opera
+0,Rogue One: A Star Wars Story,2016,Sci-Fi,Space,Space Opera
+0,The Chronicles of Riddick,2004,Sci-Fi,Space,Space Opera
+0,Back to the Future,1985,Sci-Fi,Time Travel,
+0,Edge of Tomorrow,2014,Sci-Fi,Time Travel,
+0,Planet of the Apes,1968,Sci-Fi,Time Travel,
+0,Flight of the Navigator,1986,Sci-Fi,Time Travel,
+0,Looper,2012,Sci-Fi,Time Travel,
+0,The Girl Who Leapt Through Time,2006,Sci-Fi,Time Travel,
+0,Armageddon,1998,Sci-Fi,Earth-Scale Disaster,
+0,Knowing,2009,Sci-Fi,Earth-Scale Disaster,
+0,Testament,1983,Sci-Fi,Earth-Scale Disaster,
+0,Deep Impact,1998,Sci-Fi,Earth-Scale Disaster,
+0,When Worlds Collide,1951,Sci-Fi,Earth-Scale Disaster,
+0,The Day After Tomorrow,2004,Sci-Fi,Earth-Scale Disaster,
+0,Escape from New York,1981,Sci-Fi,Dystopia,
+0,Soylent Green,1973,Sci-Fi,Dystopia,
+0,A Clockwork Orange,1971,Sci-Fi,Dystopia,
+0,Wall-E,2008,Sci-Fi,Dystopia,
+0,Brazil,1985,Sci-Fi,Dystopia,
+0,Gattaca,1997,Sci-Fi,Dystopia,
+0,Dredd,2012,Sci-Fi,Dystopia,
+0,Sleeper,1973,Sci-Fi,Dystopia,
+0,Logan's Run,1976,Sci-Fi,Dystopia,
+0,Sorry to Bother you,2018,Sci-Fi,Dystopia,
+0,Alphaville,1965,Sci-Fi,Dystopia,
+0,A Scanner Darkly,2006,Sci-Fi,Dystopia,
+0,Minority Report,2002,Sci-Fi,Dystopia,
+0,Delicatessen,1991,Sci-Fi,Dystopia,
+0,Fahrenheit 451,1966,Sci-Fi,Dystopia,
+0,THX 1138,1971,Sci-Fi,Dystopia,
+0,Never Let Me Go,2010,Sci-Fi,Dystopia,
+0,The Running Man,1987,Sci-Fi,Dystopia,Dystopian Games
+0,Death Race 2000,1975,Sci-Fi,Dystopia,Dystopian Games
+0,The Hunger Games,2012,Sci-Fi,Dystopia,Dystopian Games
+0,Battle Royale,2000,Sci-Fi,Dystopia,Dystopian Games
+0,Stalker,1979,Sci-Fi,Dystopia,Post-Apoalyptic
+0,V for Vendetta,2005,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Mad Max,1979,Sci-Fi,Dystopia,Post-Apoalyptic
+0,The Road Warrior,1981,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Akira,1988,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Children of Men,2006,Sci-Fi,Dystopia,Post-Apoalyptic
+0,The Omega Man,1971,Sci-Fi,Dystopia,Post-Apoalyptic
+0,It Comes at Night,2017,Sci-Fi,Dystopia,Post-Apoalyptic
+0,The Road,2009,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Snowpiercer,2013,Sci-Fi,Dystopia,Post-Apoalyptic
+0,A Boy and His Dog,1975,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Wizards,1977,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Mad Max: Fury Road,2015,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Nausicaa of the Valley of the Wind,1984,Sci-Fi,Dystopia,Post-Apoalyptic
+0,Westworld,1973,Sci-Fi,Artificial Life,
+0,Blade Runner,1982,Sci-Fi,Artificial Life,
+0,Blade Runner 2049,2017,Sci-Fi,Artificial Life,
+0,Metropolis,1927,Sci-Fi,Artificial Life,
+0,Robocop,1987,Sci-Fi,Artificial Life,
+0,Deadly Friend,1986,Sci-Fi,Artificial Life,
+0,Marjorie Prime,2017,Sci-Fi,Artificial Life,
+0,Ghost in the Shell,1995,Sci-Fi,Artificial Life,
+0,Okja,2017,Sci-Fi,Artificial Life,
+0,I am Mother,2019,Sci-Fi,Artificial Life,
+0,The Island,2005,Sci-Fi,Artificial Life,Clones
+0,The Sixth Day,2000,Sci-Fi,Artificial Life,Clones
+0,The Prestige,2006,Sci-Fi,Artificial Life,Clones
+0,Terminator,1984,Sci-Fi,Artificial Life,Man vs. Machine
+0,Terminator 2,1991,Sci-Fi,Artificial Life,Man vs. Machine
+0,Ex Machina,2014,Sci-Fi,Artificial Life,Man vs. Machine
+0,"I, Robot",2004,Sci-Fi,Artificial Life,Man vs. Machine
+0,Screamers,1995,Sci-Fi,Artificial Life,Man vs. Machine
+0,Hardware,1990,Sci-Fi,Artificial Life,Man vs. Machine
+0,Arrival,2016,Sci-Fi,Heady Sci-Fi,
+0,Annihilation,2018,Sci-Fi,Heady Sci-Fi,
+0,Upstream Color,2013,Sci-Fi,Heady Sci-Fi,
+0,Videodrome,1983,Sci-Fi,Heady Sci-Fi,
+0,The Endless,2018,Sci-Fi,Heady Sci-Fi,
+0,Donnie Darko,2001,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,Total Recall,1990,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,Seconds,1966,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,Vanilla Sky,2001,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,Another Earth,2011,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,The Face of Another,1966,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,Eternal Sunshine of the Spotless Mind,2004,Sci-Fi,Heady Sci-Fi,Alternate Selves
+0,Tron,1982,Sci-Fi,Heady Sci-Fi,False Realities
+0,Existenz,1999,Sci-Fi,Heady Sci-Fi,False Realities
+0,Inception,2010,Sci-Fi,Heady Sci-Fi,False Realities
+0,The Truman Show,1998,Sci-Fi,Heady Sci-Fi,False Realities
+0,Dark City,1998,Sci-Fi,Heady Sci-Fi,False Realities
+0,The Matrix,1999,Sci-Fi,Heady Sci-Fi,False Realities
+0,Strange Days,1995,Sci-Fi,Heady Sci-Fi,False Realities
+0,Paprika,2006,Sci-Fi,Heady Sci-Fi,False Realities
+0,Primer,2004,Sci-Fi,Heady Sci-Fi,Time Travel Loops
+0,12 Monkeys,1995,Sci-Fi,Heady Sci-Fi,Time Travel Loops
+0,Predestination,2014,Sci-Fi,Heady Sci-Fi,Time Travel Loops
+0,Triangle,2009,Sci-Fi,Heady Sci-Fi,Time Travel Loops
+0,"Je T'aime, Je T'aime",1968,Sci-Fi,Heady Sci-Fi,Time Travel Loops
+0,Coherence,2013,Sci-Fi,Heady Sci-Fi,Time Travel Loops
