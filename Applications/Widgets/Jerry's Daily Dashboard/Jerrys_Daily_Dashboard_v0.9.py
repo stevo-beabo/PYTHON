@@ -26,16 +26,16 @@ class Ui_MainWindow(object):
 
     ## Main Funtion to control the UI
     def setupUi(self, MainWindow):
-    
+
     ## Setup for MainWindow parameters
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(1681, 1033)
+        MainWindow.resize(1681, 1080)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
 
-    ## DateTime Frame Widget        
+    ## DateTime Frame Widget
         self.dateTime_Widget = QtWidgets.QFrame(self.centralwidget)
-        self.dateTime_Widget.setGeometry(QtCore.QRect(0, 0, 1680, 131))
+        self.dateTime_Widget.setGeometry(QtCore.QRect(0, 0, 1920, 131))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(255, 255, 255))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -202,7 +202,7 @@ class Ui_MainWindow(object):
 
     ## Date Label
         self.date_label = QtWidgets.QLabel(self.dateTime_Widget)
-        self.date_label.setGeometry(QtCore.QRect(1080, 10, 580, 111))
+        self.date_label.setGeometry(QtCore.QRect(1315, 10, 580, 111))
         font = QtGui.QFont()
         font.setFamily("DejaVu Serif")
         font.setPointSize(55)
@@ -215,7 +215,7 @@ class Ui_MainWindow(object):
 
     ## Clock QLCDNumber Label
         self.clock = DigitalClock(self.dateTime_Widget)
-        self.clock.setGeometry(QtCore.QRect(600, 10, 400, 112))
+        self.clock.setGeometry(QtCore.QRect(750, 10, 400, 112))
         self.clock.setFrameShape(QtWidgets.QFrame.Panel)
         self.clock.setFrameShadow(QtWidgets.QFrame.Sunken)
         self.clock.setLineWidth(10)
@@ -224,7 +224,7 @@ class Ui_MainWindow(object):
 
     ## Morning Title Bar
         self.morningBorder_T = QtWidgets.QLabel(self.centralwidget)
-        self.morningBorder_T.setGeometry(QtCore.QRect(0, 130, 1680, 40))
+        self.morningBorder_T.setGeometry(QtCore.QRect(0, 130, 1920, 40))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -387,7 +387,7 @@ class Ui_MainWindow(object):
 
     ## Morning Left Border
         self.morningBorder_L = QtWidgets.QLabel(self.centralwidget)
-        self.morningBorder_L.setGeometry(QtCore.QRect(0, 170, 31, 232))
+        self.morningBorder_L.setGeometry(QtCore.QRect(0, 170, 31, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -543,7 +543,7 @@ class Ui_MainWindow(object):
 
     ## Morning Right Border
         self.morningLabel_R = QtWidgets.QLabel(self.centralwidget)
-        self.morningLabel_R.setGeometry(QtCore.QRect(1650, 170, 31, 232))
+        self.morningLabel_R.setGeometry(QtCore.QRect(1890, 170, 31, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -699,7 +699,7 @@ class Ui_MainWindow(object):
 
     ## Afternoon Left Border
         self.afternoonBorder_L = QtWidgets.QLabel(self.centralwidget)
-        self.afternoonBorder_L.setGeometry(QtCore.QRect(0, 440, 31, 232))
+        self.afternoonBorder_L.setGeometry(QtCore.QRect(0, 450, 31, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -855,7 +855,7 @@ class Ui_MainWindow(object):
 
     ## Afternoon Title Bar
         self.afternoonBorder_T = QtWidgets.QLabel(self.centralwidget)
-        self.afternoonBorder_T.setGeometry(QtCore.QRect(0, 400, 1680, 40))
+        self.afternoonBorder_T.setGeometry(QtCore.QRect(0, 410, 1920, 40))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -1016,9 +1016,9 @@ class Ui_MainWindow(object):
         self.afternoonBorder_T.setAlignment(QtCore.Qt.AlignCenter)
         self.afternoonBorder_T.setObjectName("afternoonBorder_T")
 
-    ## Morning Right Border
+    ## Afternoon Right Border
         self.afternoonBorder_R = QtWidgets.QLabel(self.centralwidget)
-        self.afternoonBorder_R.setGeometry(QtCore.QRect(1650, 440, 31, 232))
+        self.afternoonBorder_R.setGeometry(QtCore.QRect(1890, 450, 31, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -1174,7 +1174,7 @@ class Ui_MainWindow(object):
 
     ## Evening Title bar
         self.eveningBorder_T = QtWidgets.QLabel(self.centralwidget)
-        self.eveningBorder_T.setGeometry(QtCore.QRect(0, 670, 1680, 40))
+        self.eveningBorder_T.setGeometry(QtCore.QRect(0, 690, 1920, 40))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -1337,7 +1337,7 @@ class Ui_MainWindow(object):
 
     ## Evening Left Border
         self.eveningBoarder_L = QtWidgets.QLabel(self.centralwidget)
-        self.eveningBoarder_L.setGeometry(QtCore.QRect(0, 710, 31, 232))
+        self.eveningBoarder_L.setGeometry(QtCore.QRect(0, 730, 31, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -1491,9 +1491,9 @@ class Ui_MainWindow(object):
         self.eveningBoarder_L.setText("")
         self.eveningBoarder_L.setObjectName("eveningBoarder_L")
 
-    ## Evenig Right Border
+    ## Evening Right Border
         self.eveningBorder_R = QtWidgets.QLabel(self.centralwidget)
-        self.eveningBorder_R.setGeometry(QtCore.QRect(1650, 710, 31, 232))
+        self.eveningBorder_R.setGeometry(QtCore.QRect(1890, 730, 31, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -1649,7 +1649,7 @@ class Ui_MainWindow(object):
 
     ## Morning Events Frame Widget
         self.morningWidget = QtWidgets.QFrame(self.centralwidget)
-        self.morningWidget.setGeometry(QtCore.QRect(29, 169, 1621, 231))
+        self.morningWidget.setGeometry(QtCore.QRect(29, 169, 1863, 242))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -1811,6 +1811,7 @@ class Ui_MainWindow(object):
         self.morningLayout_1.setObjectName("morningLayout_1")
         self.morningEvent_1 = QtWidgets.QLabel(self.horizontalLayoutWidget)
         font = QtGui.QFont()
+        font.setFamily("DejaVu Serif")
         font.setPointSize(28)
         font.setBold(True)
         font.setWeight(75)
@@ -1865,7 +1866,7 @@ class Ui_MainWindow(object):
 
     ## Morning Horizontal Divider
         self.morningDivider_H = QtWidgets.QFrame(self.morningWidget)
-        self.morningDivider_H.setGeometry(QtCore.QRect(0, 104, 1621, 31))
+        self.morningDivider_H.setGeometry(QtCore.QRect(0, 104, 1863, 31))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -2055,7 +2056,7 @@ class Ui_MainWindow(object):
 
     ## Morning Vertical Divider
         self.morningDivider_V = QtWidgets.QFrame(self.morningWidget)
-        self.morningDivider_V.setGeometry(QtCore.QRect(180, 0, 20, 231))
+        self.morningDivider_V.setGeometry(QtCore.QRect(180, 0, 20, 242))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Ignored)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -2214,7 +2215,7 @@ class Ui_MainWindow(object):
 
     ## Afternoon Events Frame Widget
         self.afternoonWidget = QtWidgets.QFrame(self.centralwidget)
-        self.afternoonWidget.setGeometry(QtCore.QRect(30, 440, 1621, 231))
+        self.afternoonWidget.setGeometry(QtCore.QRect(30, 450, 1863, 241))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -2376,6 +2377,7 @@ class Ui_MainWindow(object):
         self.afternoonLayout_1.setObjectName("afternoonLayout_1")
         self.afternoonEvent_1 = QtWidgets.QLabel(self.horizontalLayoutWidget_5)
         font = QtGui.QFont()
+        font.setFamily("DejaVu Serif")
         font.setPointSize(28)
         font.setBold(True)
         font.setWeight(75)
@@ -2430,7 +2432,7 @@ class Ui_MainWindow(object):
 
     ## Afternoon Horizontal Divider
         self.afternoonDivider_H = QtWidgets.QFrame(self.afternoonWidget)
-        self.afternoonDivider_H.setGeometry(QtCore.QRect(0, 104, 1621, 31))
+        self.afternoonDivider_H.setGeometry(QtCore.QRect(0, 104, 1863, 31))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -2620,7 +2622,7 @@ class Ui_MainWindow(object):
 
     ## Afternoon Vertical Divider
         self.afternoonDivider_V = QtWidgets.QFrame(self.afternoonWidget)
-        self.afternoonDivider_V.setGeometry(QtCore.QRect(180, 0, 20, 231))
+        self.afternoonDivider_V.setGeometry(QtCore.QRect(180, 0, 20, 242))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Ignored)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -2779,7 +2781,7 @@ class Ui_MainWindow(object):
 
     ## Evening Frame Widget
         self.eveningWidget = QtWidgets.QFrame(self.centralwidget)
-        self.eveningWidget.setGeometry(QtCore.QRect(30, 710, 1621, 231))
+        self.eveningWidget.setGeometry(QtCore.QRect(30, 730, 1863, 241))
         palette = QtGui.QPalette()
         brush = QtGui.QBrush(QtGui.QColor(0, 0, 0))
         brush.setStyle(QtCore.Qt.SolidPattern)
@@ -2941,6 +2943,7 @@ class Ui_MainWindow(object):
         self.eveningLayout_1.setObjectName("eveningLayout_1")
         self.eveningEvent_1 = QtWidgets.QLabel(self.horizontalLayoutWidget_7)
         font = QtGui.QFont()
+        font.setFamily("DejaVu Serif")
         font.setPointSize(28)
         font.setBold(True)
         font.setWeight(75)
@@ -2996,7 +2999,7 @@ class Ui_MainWindow(object):
 
     ## Evening Horizontal Divider
         self.eveningDivider_H = QtWidgets.QFrame(self.eveningWidget)
-        self.eveningDivider_H.setGeometry(QtCore.QRect(0, 104, 1621, 31))
+        self.eveningDivider_H.setGeometry(QtCore.QRect(0, 104, 1863, 31))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Preferred, QtWidgets.QSizePolicy.Preferred)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -3186,7 +3189,7 @@ class Ui_MainWindow(object):
 
     ## Evening Vertical Divider
         self.eveningDivider_V = QtWidgets.QFrame(self.eveningWidget)
-        self.eveningDivider_V.setGeometry(QtCore.QRect(180, 0, 20, 231))
+        self.eveningDivider_V.setGeometry(QtCore.QRect(180, 0, 20, 242))
         sizePolicy = QtWidgets.QSizePolicy(QtWidgets.QSizePolicy.Fixed, QtWidgets.QSizePolicy.Ignored)
         sizePolicy.setHorizontalStretch(0)
         sizePolicy.setVerticalStretch(0)
@@ -3409,7 +3412,7 @@ class Ui_MainWindow(object):
                 creds.refresh(Request()) ## Problem with the Google Code or the "Credentials" Function at this time. Does not auto refresh the token!
             # Creates a new auth token using the manually made "credentials.json" that was downloaded from the Google Cloud Console 
             else:
-                flow = InstalledAppFlow.from_client_secrets_file('credentials.json', SCOPES)
+                flow = InstalledAppFlow.from_client_secrets_file('/home/hank/Projects/JDD/credentials.json', SCOPES)
                 creds = flow.run_local_server(port = 0)
             with open('token.json', 'w') as token:
                 token.write(creds.to_json())
@@ -3435,9 +3438,24 @@ class Ui_MainWindow(object):
         evening_range_end = "T".join(get_evening_end)
 
         # Setting the parameters for the date ranges used against the Calendar and storing the returned info into public variables
-        self.morning_events = build('calendar', 'v3', credentials=creds).events().list(calendarId='primary', orderBy='startTime', timeMin=morning_range_start, timeMax=morning_range_end, singleEvents=True).execute()
+        self.morning_events = build('calendar', 'v3', credentials=creds).events().list(calendarId='primary', timeMin=morning_range_start, timeMax=morning_range_end, singleEvents=True, orderBy='startTime').execute()
         self.afternoon_events = build('calendar', 'v3', credentials=creds).events().list(calendarId='primary', timeMin=afternoon_range_start, timeMax=afternoon_range_end, singleEvents=True, orderBy='startTime').execute()
         self.evening_events = build('calendar', 'v3', credentials=creds).events().list(calendarId='primary', timeMin=evening_range_start, timeMax=evening_range_end, singleEvents=True, orderBy='startTime').execute()
+
+        print("MORNING")
+        print(morning_range_start)
+        print(morning_range_end)
+        print(self.morning_events)
+
+        print("AFTERNOON")
+        print(afternoon_range_start)
+        print(afternoon_range_end)
+        print(self.afternoon_events)
+
+        print("EVENING")
+        print(evening_range_start)
+        print(evening_range_end)
+        print(self.morning_events)
 
         self.morningTimes()
         self.morningEvents()
