@@ -3419,19 +3419,19 @@ class Ui_MainWindow(object):
         today = get_today.split("T")
     
         # Creates the starting and ending ranges for the different times of day
-        get_morning_start =  [today[0], "03:00:00.000000Z"]
+        get_morning_start =  [today[0], "00:00:00-07:00"]
         morning_range_start = "T".join(get_morning_start)
-        get_morning_end = [today[0], "10:59:59.000000Z"]
+        get_morning_end = [today[0], "11:59:59-07:00"]
         morning_range_end = "T".join(get_morning_end)
 
-        get_afternoon_start =  [today[0], "11:30:00.000000Z"]
+        get_afternoon_start =  [today[0], "12:30:00-07:00"]
         afternoon_range_start = "T".join(get_afternoon_start)
-        get_afternoon_end = [today[0], "16:59:59.000000Z"]
+        get_afternoon_end = [today[0], "17:59:59-07:00"]
         afternoon_range_end = "T".join(get_afternoon_end)
 
-        get_evening_start =  [today[0], "17:30:00.000000Z"]
+        get_evening_start =  [today[0], "18:30:00-07:00"]
         evening_range_start = "T".join(get_evening_start)
-        get_evening_end = [today[0], "23:59:59.000000Z"]
+        get_evening_end = [today[0], "23:59:59-07:00"]
         evening_range_end = "T".join(get_evening_end)
 
         # Setting the parameters for the date ranges used against the Calendar and storing the returned info into public variables
