@@ -3442,21 +3442,6 @@ class Ui_MainWindow(object):
         self.afternoon_events = build('calendar', 'v3', credentials=creds).events().list(calendarId='primary', timeMin=afternoon_range_start, timeMax=afternoon_range_end, singleEvents=True, orderBy='startTime').execute()
         self.evening_events = build('calendar', 'v3', credentials=creds).events().list(calendarId='primary', timeMin=evening_range_start, timeMax=evening_range_end, singleEvents=True, orderBy='startTime').execute()
 
-        print("MORNING")
-        print(morning_range_start)
-        print(morning_range_end)
-        print(self.morning_events)
-
-        print("AFTERNOON")
-        print(afternoon_range_start)
-        print(afternoon_range_end)
-        print(self.afternoon_events)
-
-        print("EVENING")
-        print(evening_range_start)
-        print(evening_range_end)
-        print(self.morning_events)
-
         self.morningTimes()
         self.morningEvents()
         self.afternoonTimes()
